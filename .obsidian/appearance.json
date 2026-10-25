@@ -1,0 +1,8 @@
+{
+  "accentColor": "#FFC83D",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "top-g-vault"
+  ],
+  "baseFontSize": 16
+}

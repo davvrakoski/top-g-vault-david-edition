@@ -1,0 +1,81 @@
+---
+area: "08 Vehicles"
+cluster: "Vehicles"
+source_note: "00_GRAPH_HUBS/Vehicles"
+title: "Vehicles"
+tags: [roblox, premium, graph-hub, "cluster/vehicles"]
+cssclasses: [tg-a08]
+---
+
+# Vehicles
+
+**Knowledge cluster:** 5 linked notes
+
+This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it to enter this subject from the graph and then follow the connected production notes.
+
+## Notes in this cluster
+
+- [[3D Asset QA Scorecard|3D Asset QA Scorecard]]
+- [[Vehicles|VEHICLES]]
+- [[Vehicle Suspension, Chassis and Grip|Vehicle Suspension, Chassis & Grip]]
+- [[Vehicle Enter - Exit, Seats and Camera|Vehicle Enter/Exit, Seats & Camera]]
+
+- [[Vehicle Dust, Mud and Tire Trail VFX|Vehicle Dust, Mud & Tire Trail VFX]]
+
+## Related clusters
+
+[[Physics Ragdolls - Hub|Physics Ragdolls]] · [[Maps - Hub|Maps]] · [[Audio - Hub|Audio]]
+ · [[Visual Production Atlas - Hub|Visual Production Atlas]]
+
+[[Top G Vault - Home|← Back to Top G Vault]]
+
+## Deep dives
+
+- [[Constraint Car Build - CylindricalConstraint, SpringConstraint and VehicleSeat]]
+- [[Arcade Handling and Drifting Without Fighting Physics]]
+- [[Hover, Boat and Flying Vehicles with Mover Constraints]]
+- [[Kart Racing Systems - Checkpoints, Laps, Boost Pads and Respawn]]
+
+<!-- TG_CK_START -->
+## Community Knowledge
+
+37 sourced notes added 2026-10-25.
+
+- [[Ackermann Steering Geometry for Roblox Cars]]
+- [[Center of Mass, Anti-Flip and Self-Righting]]
+- [[Collision Groups for Vehicles - Wheels, Riders and Traffic]]
+- [[Engine RPM, Gearbox and Torque Curve Model]]
+- [[Engine and Tyre Audio Driven by RPM and Slip]]
+- [[Fuel and Range System for Vehicles]]
+- [[HingeConstraint Motors and Servos for Wheels and Steering]]
+- [[Motorcycles and Bikes - Lean Angle and Balance]]
+- [[Racing - AI Racers on a Racing Line Spline]]
+- [[Racing - Car Meets and Cruising Social Design]]
+- [[Racing - Car Shops, Unlock Ladders and Progression Pacing]]
+- [[Racing - Chase Camera and Speed Effects - FOV, Shake and Speed Lines]]
+- [[Racing - Drift Scoring - Angle, Speed and Combo Chains]]
+- [[Racing - Ghost Cars - Recording and Replaying CFrame Laps]]
+- [[Racing - Kart Item Boxes and Position-Weighted Item Odds]]
+- [[Racing - Nitro and Boost Meters]]
+- [[Racing - Photo Mode with CaptureService]]
+- [[Racing - Police Chases and Wanted Levels]]
+- [[Racing - Race HUD - Minimap, Position, Lap and Split Times]]
+- [[Racing - Race Lifecycle, Grid Placement and DNF Timer]]
+- [[Racing - Race Matchmaking, Class Queues and Private Lobbies]]
+- [[Racing - Rubber-Banding and Fair Catch-Up]]
+- [[Racing - Time Trial Leaderboards with OrderedDataStore]]
+- [[Racing - Track Progress, Wrong-Way Detection and Live Positions]]
+- [[Racing - Tuning Menus and Performance Index Balancing]]
+- [[Racing - Visual Crash Damage - Part Swaps, Detachable Panels and Dents]]
+- [[Seat Entry with ProximityPrompt - No More Accidental Sits]]
+- [[Trailers and Towing with BallSocketConstraint]]
+- [[Tyre Friction with CustomPhysicalProperties]]
+- [[Vehicle Customisation - Paint, Parts and Saved Loadouts]]
+- [[Vehicle Haptics - Rumble for Engine, Impacts and Kerbs]]
+- [[Vehicle Lights - Headlights, Brake Lights and Indicators]]
+- [[Vehicle QA Test Pass - Before Shipping a Car]]
+- [[Vehicle Spawner and Garage System - Server Flow]]
+- [[VehicleSeat Property Reference - Inputs, Limits and Debugging]]
+- [[Vehicles and StreamingEnabled - Atomic Cars and Streaming Ahead]]
+- [[Visual Debugging for Vehicle Physics in Studio]]
+<!-- TG_CK_END -->

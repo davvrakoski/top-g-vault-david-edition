@@ -1,0 +1,14 @@
+Headquarters Building
+Source: NASA 3D Resources - https://science.nasa.gov/3d-resources/headquarters-building/
+Mirror: https://github.com/nasa/NASA-3D-Resources
+Downloaded file(s): https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/model/headquarters-building/Headquarters%20Building.glb
+Author / credit (as listed on the NASA page): NASA/Ames Research Center
+Mission: -
+License / usage: NASA media, including 3D model polygon data and texture maps, "generally are not subject to copyright in the United States"
+  (NASA Images and Media Usage Guidelines: https://www.nasa.gov/nasa-brand-center/images-and-media/ , checked 2026-10-25).
+  The NASA 3D Resources README states the assets are "free and without copyright". The GitHub repo's meta.json also names the NASA Open Source Agreement 1.3 (a permissive license that allows commercial redistribution).
+  Only models whose NASA page credits a NASA source (not JPL/Caltech or an outside company) were included in this pack.
+Required: credit "NASA" as the source. Do NOT imply NASA endorses your game or product.
+  The NASA insignia ("meatball"), logotype ("worm") and seal are protected by law and NOT public domain. Some textures show them as painted on the real hardware:
+  do not use them as your own logo, on merchandise, or in thumbnails/ads; for zero risk, paint them out of the texture.
+Changes made for this pack: converted from GLB to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved at max 2048 px; *_Roblox20k.fbx (if present) is an automatically decimated copy under 20,000 triangles.

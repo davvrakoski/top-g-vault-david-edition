@@ -1,0 +1,15 @@
+Davenport Electric Motor
+Original title: Davenport electric motor, US patent #132
+Source: Smithsonian Institution - National Museum of American History
+Museum record: https://n2t.net/ark:/65665/ng49ca746ab-d1df-704b-e053-15f76fa0b4fa
+3D model page: https://3d.si.edu/object/3d/a18922b9-a00f-4c9e-988a-f526382b15cc  (viewer: https://3d-api.si.edu/voyager/3d_package:a18922b9-a00f-4c9e-988a-f526382b15cc)
+Downloaded file: https://3d-api.si.edu/content/document/3d_package:a18922b9-a00f-4c9e-988a-f526382b15cc/resources/Davenport_motor-100k-2048_std.glb
+Object credit line: -
+Author / rights holder: Smithsonian Institution (3D digitization by the Smithsonian Digitization Program Office and the owning museum)
+License: CC0 1.0 Universal (Public Domain Dedication) - Smithsonian Open Access.
+  Verified 2026-10-25: EDAN record nmah_703302 has metadata_usage.access = "CC0" and its 3d_voyager media (3d_package:a18922b9-a00f-4c9e-988a-f526382b15cc) has usage.access = "CC0".
+  License text: https://creativecommons.org/publicdomain/zero/1.0/
+  Smithsonian terms (CC0 content may be used commercially without permission): https://www.si.edu/termsofuse
+Credit: not required. Suggested: "Smithsonian Institution, National Museum of American History, CC0".
+Notes: Do not use the Smithsonian name or logo to imply endorsement. CC0 covers copyright only; trademarks on depicted objects (if any) are not licensed.
+Changes made for this pack: converted from glTF to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved at max 2048 px; *_Roblox20k.fbx is an automatically decimated copy under 20,000 triangles.

@@ -1,0 +1,67 @@
+---
+title: "Handle Open Cloud data store requests"
+description: "Explains how to handle Open Cloud API requests for data stores."
+area: "30 Official Roblox Docs"
+cluster: "Cloud"
+source: "https://create.roblox.com/docs/cloud/guides/data-stores/request-handling"
+license: "CC-BY-4.0 (Roblox Corporation)"
+tags: [official-docs, roblox]
+cssclasses: [tg-a30]
+---
+
+*Explains how to handle Open Cloud API requests for data stores.*
+
+There are a number of considerations around sending requests to and handling responses from the Open Cloud data store APIs.
+
+## HTTP headers
+
+Like all Open Cloud endpoints, data store requests that use API key authentication must include the `x-api-key` header. For more information, see [[30 Official Roblox Docs/Cloud/Auth/Manage API keys|Manage API keys]].
+
+- An incorrect or missing API key results in a 401 error.
+- A valid API key that lacks the correct permissions results in a 403 error.
+
+If a request includes a body, such as a create or update request, include the `Content-Type: application/json` and `Content-Length` headers. Most clients include these headers automatically.
+
+## Pagination
+
+Data stores often contain many entries, which means your code, particularly when calling [List Data Store Entries](https://create.roblox.com/docs/cloud/reference/DataStoreEntry#Cloud_ListDataStoreEntries__Using_Universes), must deal with a maximum number of results and pages. To learn more, see [[30 Official Roblox Docs/Cloud/Reference/Patterns#Pagination|Pagination]].
+
+## Filters
+
+If you use prefixes in the names of your data store entries, you likely want to filter your GET calls, like so:
+
+```python
+def list_entries(universe, data_store, filter):
+    list_path = f'universes/{universe}/data-stores/{data_store}/entries'
+    url = base_url + list_path
+    return requests.get(url, params={'filter': f'id.startsWith("global/{filter}")'}, headers={apiHeaderKey: apiKey})
+```
+
+Filter syntax is extremely limited. See the reference documentation for available filters for [standard](https://create.roblox.com/docs/cloud/reference/DataStoreEntry#Cloud_ListDataStoreEntries__Using_Universes) and [ordered](https://create.roblox.com/docs/cloud/reference/OrderedDataStoreEntry#Cloud_ListOrderedDataStoreEntries) data stores.
+
+## Allow missing flags
+
+The PATCH (update) methods for standard and ordered data stores have an `allow_missing` parameter. If set to true, this parameter lets you create entries that don't already exist rather than throwing an error. Leave this parameter at its default value of false unless you have a good reason not to; updating an entry that was never created often represents an error in programming logic.
+
+## Scopes
+
+Many requests require you to specify a scope, even if it's the default value of `global`. These scopes are distinct from permission scopes and let you subdivide and organize the entries in a data store.
+
+Rather than creating non-default scopes, however, we strongly recommend using prefixes. To learn more, see [[30 Official Roblox Docs/Cloud Services/Data Stores/Data store versioning, listing, and caching#Listing and prefixes|Listing and prefixes]].
+
+## Content-MD5
+
+> [!info]
+> This section only applies to the Open Cloud v1 API.
+
+The Open Cloud v1 API supports an optional base64-encoded MD5 checksum in some requests, which can catch data integrity issues. Many languages have built-in functions to calculate the value of the `content-md5` header. The following example uses Python:
+
+```python
+$ echo "750" | python -c "import base64, hashlib; print(str(base64.b64encode(hashlib.md5(bytes(input(), encoding='utf8')).digest()), encoding='utf8'))"
+sTf90fedVsft8zZf6nUg8g==
+```
+
+If you run into issues generating a valid `content-md5` value, you might need to encode your request body in UTF-8 before computing the checksum.
+
+---
+*Source: [Handle Open Cloud data store requests](https://create.roblox.com/docs/cloud/guides/data-stores/request-handling) (Roblox Creator Docs). © Roblox Corporation, licensed CC BY 4.0; code samples MIT. Converted for Obsidian; changes: formatting only.*

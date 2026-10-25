@@ -1,0 +1,14 @@
+{
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "userIgnoreFilters": [
+    "30 Official Roblox Docs/_assets/",
+    "20 FBX Asset Library/Poly Haven 4K Pro/"
+  ],
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "00 Inbox/attachments",
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "propertiesInDocument": "hidden"
+}

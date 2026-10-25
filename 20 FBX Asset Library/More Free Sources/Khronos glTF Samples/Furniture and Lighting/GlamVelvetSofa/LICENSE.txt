@@ -1,0 +1,8 @@
+GlamVelvetSofa
+Source: Khronos Group glTF Sample Assets - https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlamVelvetSofa
+License(s) per the model's metadata.json (checked 2026-10-25):
+  - Eric Chadwick: Everything (CC-BY-4.0, https://creativecommons.org/licenses/by/4.0/legalcode)
+Overall license for this item: CC BY 4.0 (attribution REQUIRED)
+REQUIRED credit line (put it in your game credits / description): "GlamVelvetSofa" by Eric Chadwick - Khronos glTF Sample Assets - CC BY 4.0 - converted to FBX
+CC BY 4.0 text: https://creativecommons.org/licenses/by/4.0/ - you must give credit, link the license and say that changes were made.
+Changes made for this pack: converted from glTF to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved (max 2048 px); advanced glTF material effects (transmission, sheen, iridescence, clearcoat) do not carry over to FBX/Roblox; *_Roblox20k.fbx (if present) is an automatically decimated copy under 20,000 triangles.

@@ -1,0 +1,36 @@
+---
+title: "Roblox Brand Link"
+description: "The Roblox Brand Link program is for creators interested in brand integrations."
+area: "30 Official Roblox Docs"
+cluster: "Creator Programs"
+source: "https://create.roblox.com/docs/creator-programs/managed-brand-integrations"
+license: "CC-BY-4.0 (Roblox Corporation)"
+tags: [official-docs, roblox]
+cssclasses: [tg-a30]
+---
+
+*The Roblox Brand Link program is for creators interested in brand integrations.*
+
+The **Roblox Brand Link** program is for creators interested in brand integrations. This program targets brands that invest in Roblox and want to integrate into popular games.
+
+Roblox manages the entire process for brands, including coordinating with creators to bring these integrations to life. This is an excellent opportunity for creators to work with Roblox and prominent brands on innovative integrations. Creators will have access to paid opportunities to integrate brands into their games and the chance to collaborate with high-profile brands.
+
+**Status: Open**
+
+## Eligibility
+
+This is currently an invite-only program. However, to increase the likelihood of being invited, creators should ideally:
+
+- Own a game with over 500k Monthly Active Users (MAUs)
+- Communicate in a timely manner
+- Have good organizational skills
+- Be willing to closely partner with brands
+
+Once selected:
+
+- Creators will receive an invite on DevForum to join the program server.
+- Creators will be expected to work with program staff to create a custom deck that can be shared with brands on integration opportunities.
+- Creators will be expected to consider opportunities, engage with brands on exploration conversations, and co-produce integration projects.
+
+---
+*Source: [Roblox Brand Link](https://create.roblox.com/docs/creator-programs/managed-brand-integrations) (Roblox Creator Docs). © Roblox Corporation, licensed CC BY 4.0; code samples MIT. Converted for Obsidian; changes: formatting only.*

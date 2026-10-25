@@ -1,0 +1,9 @@
+KayKit Dungeon Pack
+Source: OpenGameArt.org - https://opengameart.org/content/kaykit-dungeon-pack-10
+Original title: KayKit: Dungeon Pack 1.0
+Author: Kay Lousberg (https://opengameart.org/users/kay-lousberg)
+License: CC0 1.0 Universal (Public Domain Dedication) - as listed on the OpenGameArt page (checked 2026-10-25). https://creativecommons.org/publicdomain/zero/1.0/
+Credit: not required. Suggested: "KayKit Dungeon Pack by Kay Lousberg (OpenGameArt), CC0".
+Author's own license file (in the original download): "License: (Creative Commons Zero, CC0) ... free to use in personal, educational and commercial projects." Credit optional: "Kay Lousberg, www.kaylousberg.com".
+KayKit logo / brand images were NOT included in this pack. Rigged characters were not included.
+Changes made for this pack: converted to FBX with Blender 5.2 (one FBX per model), textures re-saved as PNG/JPG (max 2048 px); missing texture links were re-attached from the original pack's image files.

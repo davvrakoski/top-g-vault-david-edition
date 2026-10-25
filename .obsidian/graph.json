@@ -1,0 +1,856 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"30 Official Roblox Docs\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"01 Start Here/Community Knowledge/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15557445
+      }
+    },
+    {
+      "query": "path:\"02 Game Design and Economy/Foundations Planning/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4544749
+      }
+    },
+    {
+      "query": "path:\"02 Game Design and Economy/Inventory Economy/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9039173
+      }
+    },
+    {
+      "query": "path:\"02 Game Design and Economy/Story Quests Cinematics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549882
+      }
+    },
+    {
+      "query": "path:\"02 Game Design and Economy/Top G Vault/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582125
+      }
+    },
+    {
+      "query": "path:\"03 Scripting and Systems/Math Geometry/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15580741
+      }
+    },
+    {
+      "query": "path:\"03 Scripting and Systems/Physics Ragdolls/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9258477
+      }
+    },
+    {
+      "query": "path:\"03 Scripting and Systems/Procedural Generation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582748
+      }
+    },
+    {
+      "query": "path:\"03 Scripting and Systems/Scripting/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549791
+      }
+    },
+    {
+      "query": "path:\"04 Networking Data and Servers/Data Backend/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4559085
+      }
+    },
+    {
+      "query": "path:\"04 Networking Data and Servers/Networking Security/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12709189
+      }
+    },
+    {
+      "query": "path:\"04 Networking Data and Servers/Server Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15222253
+      }
+    },
+    {
+      "query": "path:\"05 Performance and Optimization/Optimization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582839
+      }
+    },
+    {
+      "query": "path:\"05 Performance and Optimization/Performance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15566405
+      }
+    },
+    {
+      "query": "path:\"06 Characters and Animation/Animation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5588461
+      }
+    },
+    {
+      "query": "path:\"06 Characters and Animation/Characters Customization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6745413
+      }
+    },
+    {
+      "query": "path:\"07 AI and Combat/AI/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549847
+      }
+    },
+    {
+      "query": "path:\"07 AI and Combat/Combat/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4573421
+      }
+    },
+    {
+      "query": "path:\"08 Vehicles/Vehicles/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15589701
+      }
+    },
+    {
+      "query": "path:\"09 Maps and Worlds/Maps/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11552237
+      }
+    },
+    {
+      "query": "path:\"09 Maps and Worlds/Terrain Vegetation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582783
+      }
+    },
+    {
+      "query": "path:\"10 3D Art and Materials/3D Modeling Blender/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15552069
+      }
+    },
+    {
+      "query": "path:\"10 3D Art and Materials/Materials Textures/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4550125
+      }
+    },
+    {
+      "query": "path:\"10 3D Art and Materials/Visual Production Atlas/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10415429
+      }
+    },
+    {
+      "query": "path:\"11 VFX Lighting and Weather/Lighting/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549903
+      }
+    },
+    {
+      "query": "path:\"11 VFX Lighting and Weather/VFX/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582873
+      }
+    },
+    {
+      "query": "path:\"11 VFX Lighting and Weather/Weather/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15575365
+      }
+    },
+    {
+      "query": "path:\"12 UI Audio and Camera/Accessibility Localization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7882221
+      }
+    },
+    {
+      "query": "path:\"12 UI Audio and Camera/Audio/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582727
+      }
+    },
+    {
+      "query": "path:\"12 UI Audio and Camera/Camera Game Feel/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549813
+      }
+    },
+    {
+      "query": "path:\"12 UI Audio and Camera/UI UX/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4564461
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/Analytics Discovery/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14085445
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/Community Discord/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13780461
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/LiveOps Social/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582817
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/Monetization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15561029
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/Publishing Release/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4541421
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization/Thumbnails/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8187205
+      }
+    },
+    {
+      "query": "path:\"14 Testing and QA/Testing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549868
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow/Claude MCP AI Workflow/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4578797
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow/Git Version Control/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15584069
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow/Graph View Setup/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10110445
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow/Obsidian Workflow/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582762
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow/Open Source Licensing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549778
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Characters Avatars and UGC/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4555757
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Free Animations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11857221
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Free Tools and Assets/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549924
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Free VFX and FX/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4582852
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Maps Worlds and Level Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15569733
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Open Source Games/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6440429
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Performance and Security/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5893445
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Reddit Game Design and Growth/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15549834
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Reddit Scripting and Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4570093
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Testing QA and DevOps/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15527237
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Vehicles and Physics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12404205
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/AI/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400331
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/API Reference/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429753
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Animation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7380459
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Art/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12643184
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Assistant/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429860
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Audio/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400397
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Avatar/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15444592
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Avatar Setup/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8810731
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Characters/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8317808
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Chat/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429794
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Cloud/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7390955
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Cloud Services/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15330160
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Creator Programs/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13136107
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Education/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400356
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Effects/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15434096
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Environment/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7373803
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/General/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11004784
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Get Started/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429835
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/IP Licensing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400423
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Input/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15450992
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Luau/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10449131
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Luau Language/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400315
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Marketplace/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429769
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Matchmaking/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7384299
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Parts/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13691760
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Performance Optimization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14774507
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Physics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400382
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Players/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15440496
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Production/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7762155
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Projects/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9366384
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Resources/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15429810
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Scripting/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7394795
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Sound/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15457392
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Studio/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12153067
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Tutorials/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7400341
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/UI/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15430000
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs/Workspace/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7377899
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/100STYLE Mocap (CC-BY 4.0)/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14857306
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Catalog/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9198306
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Kenney/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5956197
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/More Free Sources/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14834295
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Poly Haven/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5939170
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Poly Haven 4K Pro/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13099610
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Poly Haven Roblox-Ready/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14047970
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library/Top G Originals - VFX Meshes/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5956270
+      }
+    },
+    {
+      "query": "path:\"01 Start Here\"",
+      "color": {
+        "a": 1,
+        "rgb": 16762941
+      }
+    },
+    {
+      "query": "path:\"02 Game Design and Economy\"",
+      "color": {
+        "a": 1,
+        "rgb": 16752412
+      }
+    },
+    {
+      "query": "path:\"03 Scripting and Systems\"",
+      "color": {
+        "a": 1,
+        "rgb": 3835647
+      }
+    },
+    {
+      "query": "path:\"04 Networking Data and Servers\"",
+      "color": {
+        "a": 1,
+        "rgb": 46296
+      }
+    },
+    {
+      "query": "path:\"05 Performance and Optimization\"",
+      "color": {
+        "a": 1,
+        "rgb": 5032432
+      }
+    },
+    {
+      "query": "path:\"06 Characters and Animation\"",
+      "color": {
+        "a": 1,
+        "rgb": 3715072
+      }
+    },
+    {
+      "query": "path:\"07 AI and Combat\"",
+      "color": {
+        "a": 1,
+        "rgb": 16335172
+      }
+    },
+    {
+      "query": "path:\"08 Vehicles\"",
+      "color": {
+        "a": 1,
+        "rgb": 11868062
+      }
+    },
+    {
+      "query": "path:\"09 Maps and Worlds\"",
+      "color": {
+        "a": 1,
+        "rgb": 15954476
+      }
+    },
+    {
+      "query": "path:\"10 3D Art and Materials\"",
+      "color": {
+        "a": 1,
+        "rgb": 9485933
+      }
+    },
+    {
+      "query": "path:\"11 VFX Lighting and Weather\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766474
+      }
+    },
+    {
+      "query": "path:\"12 UI Audio and Camera\"",
+      "color": {
+        "a": 1,
+        "rgb": 10309341
+      }
+    },
+    {
+      "query": "path:\"13 Growth and Monetization\"",
+      "color": {
+        "a": 1,
+        "rgb": 16735650
+      }
+    },
+    {
+      "query": "path:\"14 Testing and QA\"",
+      "color": {
+        "a": 1,
+        "rgb": 8072383
+      }
+    },
+    {
+      "query": "path:\"15 AI Tools and Workflow\"",
+      "color": {
+        "a": 1,
+        "rgb": 3065014
+      }
+    },
+    {
+      "query": "path:\"16 Fast Game Kit\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711790
+      }
+    },
+    {
+      "query": "path:\"20 FBX Asset Library\"",
+      "color": {
+        "a": 1,
+        "rgb": 15320170
+      }
+    },
+    {
+      "query": "path:\"30 Official Roblox Docs\"",
+      "color": {
+        "a": 1,
+        "rgb": 15087942
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 448160
+      }
+    },
+    {
+      "query": "path:\"99 Vault Admin\"",
+      "color": {
+        "a": 1,
+        "rgb": 9279918
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 0.6,
+  "collapse-forces": true,
+  "centerStrength": 0.45,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 160,
+  "scale": 0.05635756741708179,
+  "close": false
+}

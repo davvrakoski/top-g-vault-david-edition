@@ -1,0 +1,10 @@
+# Obsidian per-user state
+.obsidian/workspace*.json
+.obsidian/plugins/*/data.json
+.trash/
+# Big asset files live in the full Top G Vault only
+*.fbx
+*.exr
+*.blend
+*.zip
+*.log

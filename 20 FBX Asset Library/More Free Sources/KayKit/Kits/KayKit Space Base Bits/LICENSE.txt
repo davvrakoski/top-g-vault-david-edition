@@ -1,0 +1,8 @@
+KayKit Space Base Bits
+Source: official KayKit GitHub repository - https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0
+Author: Kay Lousberg (www.kaylousberg.com, itch.io: kaylousberg)
+License: CC0 1.0 Universal (Public Domain Dedication) - stated in the pack's own LICENSE.txt (checked 2026-10-25):
+  "License: (Creative Commons Zero, CC0) ... This content is free to use in personal, educational and commercial projects."
+Credit: not required. Suggested: "KayKit Space Base Bits by Kay Lousberg (kaylousberg.com), CC0".
+KayKit logos / brand images and Godot add-on scripts were NOT included.
+Changes made for this pack: converted from glTF to FBX with Blender 5.2 (one FBX per model; rigged characters keep their armature), textures re-saved as PNG/JPG.

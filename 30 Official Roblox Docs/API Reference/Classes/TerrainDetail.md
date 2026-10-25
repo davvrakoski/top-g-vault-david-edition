@@ -1,0 +1,194 @@
+---
+title: "TerrainDetail"
+description: "Determines appearance of a certain terrain face direction."
+api_type: class
+area: "30 Official Roblox Docs"
+cluster: "API Reference"
+source: "https://create.roblox.com/docs/reference/engine/classes/TerrainDetail"
+license: "CC-BY-4.0 (Roblox Corporation)"
+tags: [official-docs, roblox, api-reference, api/class]
+cssclasses: [tg-a30]
+---
+
+*Determines appearance of a certain terrain face direction.*
+
+- **Inherits:** [[30 Official Roblox Docs/API Reference/Classes/Instance|Instance]] → [[30 Official Roblox Docs/API Reference/Classes/Object|Object]]
+- **Memory category:** Instances
+
+## Description
+
+TerrainDetail has to be a child of a [[30 Official Roblox Docs/API Reference/Classes/MaterialVariant|MaterialVariant]] object. The [[30 Official Roblox Docs/API Reference/Classes/MaterialVariant#BaseMaterial|MaterialVariant.BaseMaterial]] property of the parent MaterialVariant object need to be one of the supported terrain Material, for example, it can be Basalt but not Plastic.
+
+Terrain renders with different textures for it's top(+y), bottom(-y), and side(horizontal to y axis) faces. If a MaterialVariant has no TerrainDetail children, all faces are rendered as MaterialVariant specified. At most 3 TerrainDetail objects can be added to MaterialVariant, one for each face. TerrainDetail overrides the terrain appearance of a certain face.
+
+For example, it can achieve this kind of effect: the top surface of Grass has lots of grass. On side surfaces, there are less grass. On bottom surfaces there are no grass.
+
+## Summary
+
+### Properties
+
+| Property | Type | Summary |
+| --- | --- | --- |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#ColorMap\|ColorMap]] | ContentId | Determines the color of the surface. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#ColorMapContent\|ColorMapContent]] | [[30 Official Roblox Docs/API Reference/Datatypes/Content\|Content]] | Determines the color of the surface. Only supports asset URIs as textures. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#EmissiveMaskContent\|EmissiveMaskContent]] | [[30 Official Roblox Docs/API Reference/Datatypes/Content\|Content]] | Determines the emissivity across the surface. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#EmissiveStrength\|EmissiveStrength]] | float | Determines the strength of emissive contribution. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#EmissiveTint\|EmissiveTint]] | [[30 Official Roblox Docs/API Reference/Datatypes/Color3\|Color3]] | Determines the tinting color for emissive contribution. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#Face\|Face]] | [[30 Official Roblox Docs/API Reference/Enums/TerrainFace\|TerrainFace]] | The face this TerrainDetail overrides. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#MaterialPattern\|MaterialPattern]] | [[30 Official Roblox Docs/API Reference/Enums/MaterialPattern\|MaterialPattern]] | Determines texture tiling method. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#MetalnessMap\|MetalnessMap]] | ContentId | Determines which parts of the surface are metal and are non-metal. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#MetalnessMapContent\|MetalnessMapContent]] | [[30 Official Roblox Docs/API Reference/Datatypes/Content\|Content]] | Determines which parts of the surface are metal and are non-metal. Only supports asset URIs as textures. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#NormalMap\|NormalMap]] | ContentId | Modifies the lighting of the surface by adding bumps, dents, cracks, and curves without adding more polygons. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#NormalMapContent\|NormalMapContent]] | [[30 Official Roblox Docs/API Reference/Datatypes/Content\|Content]] | Modifies the lighting of the surface by adding bumps, dents, cracks, and curves without adding more polygons. Only supports asset URIs as textures. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#RoughnessMap\|RoughnessMap]] | ContentId | Determines the apparent roughness across the surface. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#RoughnessMapContent\|RoughnessMapContent]] | [[30 Official Roblox Docs/API Reference/Datatypes/Content\|Content]] | Determines the apparent roughness across the surface. Only supports asset URIs as textures. |
+| [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#StudsPerTile\|StudsPerTile]] | float | Determines the scale of textures. |
+
+*Inherited members are documented on the parent classes: [[30 Official Roblox Docs/API Reference/Classes/Instance|Instance]], [[30 Official Roblox Docs/API Reference/Classes/Object|Object]].*
+
+## Properties
+
+### ColorMap
+
+**Type:** ContentId
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines the color of the surface. This texture is sometimes called the albedo texture. The alpha channel is not used.
+
+### ColorMapContent
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Content|Content]]
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines the color of the surface. This texture is sometimes called the albedo texture. The alpha channel is not used.
+
+### EmissiveMaskContent
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Content|Content]]
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines the apparent emissivity across the surface. An emissive mask is a grayscale image where black pixels correspond to no emissivity, and white pixels correspond to full emissivity.
+
+The emissive contribution gets added to total lighting contribution across the surface, and the sum gets multiplied by the albedo texture, which would be sampled from [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#ColorMap|ColorMap]] if provided.
+
+### EmissiveStrength
+
+**Type:** float
+
+**Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This value is a multiplier to control how strong the emissive contribution is across the surface. If the final contribution of emissives goes beyond supported dynamic range, it will get clamped; this could result in emissive contribution appearing all white when using large emissive strength values. Since this value is a multiplier, the maximum value to prevent clamping depends on all of the other contributing values, including [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#EmissiveTint|EmissiveTint]], [[30 Official Roblox Docs/API Reference/Classes/TerrainDetail#ColorMap|ColorMap]] and combined lighting contribution.
+
+### EmissiveTint
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Color3|Color3]]
+
+**Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This value is an RGB color for tinting emissive contribution.
+
+### Face
+
+**Type:** [[30 Official Roblox Docs/API Reference/Enums/TerrainFace|TerrainFace]]
+
+**Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+Face that this TerrainDetail overrides. When more than one TerrainDetail objects with the same face exist under a MaterialVariant, only one of them works.
+
+### MaterialPattern
+
+**Type:** [[30 Official Roblox Docs/API Reference/Enums/MaterialPattern|MaterialPattern]]
+
+**Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+Determines texture tiling method.
+
+### MetalnessMap
+
+**Type:** ContentId
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines which parts of the surface are metal and are non-metal. A metalness map is a grayscale image where black pixels correspond to non-metals and white pixels correspond to metals.
+
+Metals only reflect light the same color as the metal, and they reflect much more light than non-metals. Most materials in the real world can be categorized either metals or non-metals. For this reason, most pixels in a metalness map will be either pure black or pure white. Values in between are typically used to simulate dirt or grunge on top of an underlying metal area.
+
+When [[30 Official Roblox Docs/API Reference/Classes/Lighting#EnvironmentSpecularScale|Lighting.EnvironmentSpecularScale]] is 0, metalness has no effect. For the most realistic reflections, setting EnvironmentSpecularScale and [[30 Official Roblox Docs/API Reference/Classes/Lighting#EnvironmentDiffuseScale|Lighting.EnvironmentDiffuseScale]] to 1, and [[30 Official Roblox Docs/API Reference/Classes/Lighting#Ambient|Lighting.Ambient]] and [[30 Official Roblox Docs/API Reference/Classes/Lighting#OutdoorAmbient|Lighting.OutdoorAmbient]] to (0,0,0) is recommended.
+
+### MetalnessMapContent
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Content|Content]]
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines which parts of the surface are metal and are non-metal. A metalness map is a grayscale image where black pixels correspond to non-metals and white pixels correspond to metals.
+
+Metals only reflect light the same color as the metal, and they reflect much more light than non-metals. Most materials in the real world can be categorized either metals or non-metals. For this reason, most pixels in a metalness map will be either pure black or pure white. Values in between are typically used to simulate dirt or grunge on top of an underlying metal area.
+
+When [[30 Official Roblox Docs/API Reference/Classes/Lighting#EnvironmentSpecularScale|Lighting.EnvironmentSpecularScale]] is 0, metalness has no effect. For the most realistic reflections, setting EnvironmentSpecularScale and [[30 Official Roblox Docs/API Reference/Classes/Lighting#EnvironmentDiffuseScale|Lighting.EnvironmentDiffuseScale]] to 1, and [[30 Official Roblox Docs/API Reference/Classes/Lighting#Ambient|Lighting.Ambient]] and [[30 Official Roblox Docs/API Reference/Classes/Lighting#OutdoorAmbient|Lighting.OutdoorAmbient]] to (0,0,0) is recommended.
+
+### NormalMap
+
+**Type:** ContentId
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property modifies the lighting of the surface by adding bumps, dents, cracks, and curves without adding more polygons.
+
+Normal maps are RGB images that modify the surface's normal vector used for lighting calculations. The R, G, and B channels of the NormalMap correspond to the X, Y, and Z components of the local surface vector respectively, and byte values of 0 and 255 for each channel correspond linearly to normal vector components of -1 and 1.016 respectively. This range is stretched slightly from -1 to 1 so that a byte value of 127 maps to exactly 0. The normal vector's Z axis is always defined as the direction of the underlying mesh's normal. A uniform (127,127,255) image translates to a completely flat normal map where the normal is everywhere perpendicular to the mesh surface. This format is called "tangent space" normal maps. Roblox does not support world space or object space normal maps.
+
+Incorrectly flipped normal components can make bumps appear like indents. If you import a normal map and notice the lighting looks off, you may need to invert the G channel of the image. The X and Y axes of the tangent space frame correspond to the X and Y directions in the image after it's transformed by the mesh UVs. If you view your normal map in an image editor as if it were displayed on a surface, normals pointing towards the right side of the screen should appear more red, and normals pointing towards the top side of your screen should appear more green.
+
+The terms "DirectX format" and "OpenGL format" are sometimes used to describe whether the G channel of the normal map is inverted or not. Roblox expects the OpenGL format.
+
+Roblox expects imported meshes to include tangents. Modeling software may also refer to this as "tangent space" information. If you apply a normal map and it does not seem to make any visual difference, you may need to re-export your mesh along with its tangent information from modeling software.
+
+### NormalMapContent
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Content|Content]]
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property modifies the lighting of the surface by adding bumps, dents, cracks, and curves without adding more polygons.
+
+Normal maps are RGB images that modify the surface's normal vector used for lighting calculations. The R, G, and B channels of the NormalMap correspond to the X, Y, and Z components of the local surface vector respectively, and byte values of 0 and 255 for each channel correspond linearly to normal vector components of -1 and 1.016 respectively. This range is stretched slightly from -1 to 1 so that a byte value of 127 maps to exactly 0. The normal vector's Z axis is always defined as the direction of the underlying mesh's normal. A uniform (127,127,255) image translates to a completely flat normal map where the normal is everywhere perpendicular to the mesh surface. This format is called "tangent space" normal maps. Roblox does not support world space or object space normal maps.
+
+Incorrectly flipped normal components can make bumps appear like indents. If you import a normal map and notice the lighting looks off, you may need to invert the G channel of the image. The X and Y axes of the tangent space frame correspond to the X and Y directions in the image after it's transformed by the mesh UVs. If you view your normal map in an image editor as if it were displayed on a surface, normals pointing towards the right side of the screen should appear more red, and normals pointing towards the top side of your screen should appear more green.
+
+The terms "DirectX format" and "OpenGL format" are sometimes used to describe whether the G channel of the normal map is inverted or not. Roblox expects the OpenGL format.
+
+Roblox expects imported meshes to include tangents. Modeling software may also refer to this as "tangent space" information. If you apply a normal map and it does not seem to make any visual difference, you may need to re-export your mesh along with its tangent information from modeling software.
+
+### RoughnessMap
+
+**Type:** ContentId
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines the apparent roughness across the surface. A roughness map is a grayscale image where black pixels correspond to a maximally smooth surface, and white pixels correspond to a maximally rough surface.
+
+Roughness refers to how much variation the surface has on a very small scale. Reflections on smooth surfaces are sharp and concentrated. Reflections on rough surfaces are more blurry and dispersed.
+
+### RoughnessMapContent
+
+**Type:** [[30 Official Roblox Docs/API Reference/Datatypes/Content|Content]]
+
+**Security:** read PluginSecurity / write PluginSecurity · **Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+This property determines the apparent roughness across the surface. A roughness map is a grayscale image where black pixels correspond to a maximally smooth surface, and white pixels correspond to a maximally rough surface.
+
+Roughness refers to how much variation the surface has on a very small scale. Reflections on smooth surfaces are sharp and concentrated. Reflections on rough surfaces are more blurry and dispersed.
+
+### StudsPerTile
+
+**Type:** float
+
+**Thread safety:** ReadSafe · **Category:** Appearance · **Loaded/Saved:** true/true · **Capabilities:** Environment
+
+Determines the scale of textures. Larger values for this property will lead to the textures appearing larger, and repeating less frequently.
+
+---
+*Source: [TerrainDetail](https://create.roblox.com/docs/reference/engine/classes/TerrainDetail) (Roblox Creator Docs). © Roblox Corporation, licensed CC BY 4.0; code samples MIT. Converted for Obsidian; changes: formatting only.*

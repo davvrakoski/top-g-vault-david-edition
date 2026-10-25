@@ -1,0 +1,7 @@
+Mine Assets
+Source: OpenGameArt.org - https://opengameart.org/content/free-mine-assets-pack
+Original title: free mine assets pack
+Author: rubberduck (https://opengameart.org/users/rubberduck)
+License: CC0 1.0 Universal (Public Domain Dedication) - as listed on the OpenGameArt page (checked 2026-10-25). https://creativecommons.org/publicdomain/zero/1.0/
+Credit: not required. Suggested: "Mine Assets by rubberduck (OpenGameArt), CC0".
+Changes made for this pack: converted to FBX with Blender 5.2 (one FBX per model), textures re-saved as PNG/JPG (max 2048 px); missing texture links were re-attached from the original pack's image files.

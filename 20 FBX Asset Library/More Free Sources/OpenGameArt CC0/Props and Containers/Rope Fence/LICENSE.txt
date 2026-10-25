@@ -1,0 +1,7 @@
+Rope Fence
+Source: OpenGameArt.org - https://opengameart.org/content/rope-fence
+Original title: Rope Fence
+Author: Clint Bellanger (https://opengameart.org/users/clint-bellanger)
+License: CC0 1.0 Universal (Public Domain Dedication) - as listed on the OpenGameArt page (checked 2026-10-25). https://creativecommons.org/publicdomain/zero/1.0/
+Credit: not required. Suggested: "Rope Fence by Clint Bellanger (OpenGameArt), CC0".
+Changes made for this pack: converted to FBX with Blender 5.2 (one FBX per model), textures re-saved as PNG/JPG (max 2048 px); missing texture links were re-attached from the original pack's image files.

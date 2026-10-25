@@ -1,0 +1,8 @@
+Apple 003
+Source: ambientCG - https://ambientcg.com/view?id=3DApple003
+Downloaded file: https://ambientcg.com/get?file=3DApple003_LQ-2K-JPG.zip (LQ mesh, 2K JPG maps)
+Author: Lennart Demes (ambientCG)
+License: CC0 1.0 Universal (Public Domain Dedication). https://docs.ambientcg.com/license/ (checked 2026-10-25):
+  all ambientCG assets, including models, may be used, modified and redistributed, also commercially, without permission. Credit not required.
+Suggested credit: "3DApple003 from ambientCG.com, CC0".
+Changes made for this pack: converted from OBJ to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved (Color + NormalGL; ambient-occlusion map not kept).

@@ -1,0 +1,15 @@
+Porcelain Baluster Vase A
+Original title: Baluster vase, one of three in a five-piece garniture (F1980.190--194)
+Source: Smithsonian Institution - National Museum of Asian Art
+Museum record: https://asia.si.edu/object/F1980.192a-c/
+3D model page: https://3d.si.edu/object/3d/d8c62634-4ebc-11ea-b77f-2e728ce88125  (viewer: https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125)
+Downloaded file: https://3d-api.si.edu/content/document/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125/resources/F1980.190–194_baluster_vase-150k-4096.glb
+Object credit line: Gift of Myron S. Falk, Jr. and his sisters, Mrs. Mildred F. Loew and Mrs. Eleanor F. Lenzner
+Author / rights holder: Smithsonian Institution (3D digitization by the Smithsonian Digitization Program Office and the owning museum)
+License: CC0 1.0 Universal (Public Domain Dedication) - Smithsonian Open Access.
+  Verified 2026-10-25: EDAN record fsg_F1980.192a-c has metadata_usage.access = "CC0" and its 3d_voyager media (3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125) has usage.access = "CC0".
+  License text: https://creativecommons.org/publicdomain/zero/1.0/
+  Smithsonian terms (CC0 content may be used commercially without permission): https://www.si.edu/termsofuse
+Credit: not required. Suggested: "Smithsonian Institution, National Museum of Asian Art, CC0".
+Notes: Do not use the Smithsonian name or logo to imply endorsement. CC0 covers copyright only; trademarks on depicted objects (if any) are not licensed.
+Changes made for this pack: converted from glTF to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved at max 2048 px; *_Roblox20k.fbx is an automatically decimated copy under 20,000 triangles.

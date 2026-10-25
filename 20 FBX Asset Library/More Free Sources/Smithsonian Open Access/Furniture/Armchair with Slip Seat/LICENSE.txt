@@ -1,0 +1,15 @@
+Armchair with Slip Seat
+Original title: Armchair with slip seat
+Source: Smithsonian Institution - Cooper Hewitt, Smithsonian Design Museum
+Museum record: https://collection.cooperhewitt.org/view/objects/asitem/id/59271
+3D model page: https://3d.si.edu/object/3d/2632d078-a354-412c-825e-e70d2f546793  (viewer: https://3d-api.si.edu/voyager/3d_package:2632d078-a354-412c-825e-e70d2f546793)
+Downloaded file: https://3d-api.si.edu/content/document/3d_package:2632d078-a354-412c-825e-e70d2f546793/resources/armchair-with-slip-seat-ca-1820-150k-4096.glb
+Object credit line: Gift of Norvin Hewitt Green
+Author / rights holder: Smithsonian Institution (3D digitization by the Smithsonian Digitization Program Office and the owning museum)
+License: CC0 1.0 Universal (Public Domain Dedication) - Smithsonian Open Access.
+  Verified 2026-10-25: EDAN record chndm_1938-58-1083 has metadata_usage.access = "CC0" and its 3d_voyager media (3d_package:2632d078-a354-412c-825e-e70d2f546793) has usage.access = "CC0".
+  License text: https://creativecommons.org/publicdomain/zero/1.0/
+  Smithsonian terms (CC0 content may be used commercially without permission): https://www.si.edu/termsofuse
+Credit: not required. Suggested: "Smithsonian Institution, Cooper Hewitt, Smithsonian Design Museum, CC0".
+Notes: Do not use the Smithsonian name or logo to imply endorsement. CC0 covers copyright only; trademarks on depicted objects (if any) are not licensed.
+Changes made for this pack: converted from glTF to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved at max 2048 px; *_Roblox20k.fbx is an automatically decimated copy under 20,000 triangles.

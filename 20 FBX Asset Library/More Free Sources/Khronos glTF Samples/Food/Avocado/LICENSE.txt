@@ -1,0 +1,8 @@
+Avocado
+Source: Khronos Group glTF Sample Assets - https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Avocado
+License(s) per the model's metadata.json (checked 2026-10-25):
+  - Microsoft: Everything (CC0-1.0, https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+Overall license for this item: CC0 1.0 (no attribution required)
+Suggested credit: "Avocado" by Microsoft - Khronos glTF Sample Assets - CC0 1.0
+CC0 text: https://creativecommons.org/publicdomain/zero/1.0/
+Changes made for this pack: converted from glTF to FBX with Blender 5.2, recentred (origin at bottom centre, metres), textures re-saved (max 2048 px); advanced glTF material effects (transmission, sheen, iridescence, clearcoat) do not carry over to FBX/Roblox; *_Roblox20k.fbx (if present) is an automatically decimated copy under 20,000 triangles.

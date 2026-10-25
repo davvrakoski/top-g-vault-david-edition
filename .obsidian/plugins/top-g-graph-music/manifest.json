@@ -1,0 +1,9 @@
+{
+  "id": "top-g-graph-music",
+  "name": "Top G Graph Music",
+  "version": "1.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Streams a YouTube track while a Graph view is open. On-graph player (play / pause, mute, volume, off), area colour legend and By TDOD credit.",
+  "author": "TDOD",
+  "isDesktopOnly": false
+}
