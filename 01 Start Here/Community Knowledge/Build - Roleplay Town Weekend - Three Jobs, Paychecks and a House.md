@@ -46,6 +46,8 @@ Roleplay towns look like they need a whole city, but what makes players stay is 
 3. **Chat and safety (1 h).** RP is chat-heavy: use TextChatService defaults, filter any player-typed sign or name text, and read [[Text Chat, Moderation and Player Safety]].
 4. **Polish (30 min).** A sit on every bench and a radio in the square. [[Seat Entry with ProximityPrompt - No More Accidental Sits]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: jobs, activity and paychecks
 
 ```lua

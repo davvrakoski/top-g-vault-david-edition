@@ -11,9 +11,9 @@ The Roblox game-dev brain in one Obsidian vault: a colour-coded knowledge graph 
 | Full Top G Vault | |
 |---|--:|
 | **Total size** | **54.72 GB** |
-| **Files** | 30,505 |
+| **Files** | 30,514 |
 | **FBX models + animations** | 10,040 |
-| **Notes** | 3,967 |
+| **Notes** | 3,978 |
 
 **This repo is the free showcase (~0.2 GB).** GitHub refuses files over 100 MB and isn't made for 55 GB, so the 3D models, textures and 4K pack live only in the full vault. Every file of the full vault is listed with its exact size in [PROOF/full-vault-file-list.txt](PROOF/full-vault-file-list.txt), with a breakdown in [PROOF/FULL-VAULT-MANIFEST.md](PROOF/FULL-VAULT-MANIFEST.md).
 
@@ -23,9 +23,9 @@ The Roblox game-dev brain in one Obsidian vault: a colour-coded knowledge graph 
 
 | | |
 |---|---|
-| 📚 **3,880+ notes** | Game design, scripting, networking, performance, combat, AI, vehicles, VFX, UI, monetization, QA, AI tools |
-| 🚀 **Fast Game Kit** | Starter-code plan, 30-day ship plan, genre recipes (simulator, tycoon, obby, arena shooter, battlegrounds, open-sea RPG, GTA-lite, medieval, horror) |
-| 🧠 **77 deep dives + 600 community-knowledge notes** | Each checked against the official docs; unverified facts are flagged |
+| 📚 **3,970+ notes** | Game design, scripting, networking, performance, combat, AI, vehicles, VFX, UI, monetization, QA, AI tools |
+| 🚀 **Fast Game Kit** | A ready Rojo starter place (saving, currency, gamepasses + purchases, remotes, analytics, daily rewards, codes, shop UI, settings; type-checked with 0 errors), 30-day ship plan, genre recipes (simulator, tycoon, obby, arena shooter, battlegrounds, open-sea RPG, GTA-lite, medieval, horror) |
+| 🧠 **77 deep dives + 770 community-knowledge notes** | Each checked against the official docs; unverified facts are flagged |
 | 📖 **Official Roblox Docs mirror** | 993 guide pages, 1,208 API reference notes, Luau language docs (text; images are in the full vault) |
 | 🎨 **Colour-coded graph** | 99 topic colours, area-coloured notes, "Top G Vault" graph title |
 | 🎵 **Graph intro plugin** | Night-highway hypercar intro with lit signs, then music while the graph is open |

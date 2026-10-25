@@ -43,7 +43,7 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-21 sourced notes added 2026-10-25.
+34 sourced notes added 2026-10-25.
 
 - [[Art - Blender Modifiers for Game Assets - Bevel, Weighted Normal, Mirror, Array, Decimate]]
 - [[Art - EditableMesh and EditableImage - Runtime Uses, Limits and Gotchas]]
@@ -59,6 +59,19 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 - [[Baking Normal and AO Maps in Blender for Roblox]]
 - [[Level of Detail on Roblox - RenderFidelity, SLIM and Hand-Made LODs]]
 - [[Low-Poly Colour Workflows - Palette Atlas vs Vertex Colours]]
+- [[Model - AI 3D Generators Compared - Roblox Cube, Meshy and Tripo - Cleanup and Licence Caveats]]
+- [[Model - Art Asset Library in Studio - Asset Manager Folders, Tags and Attributes]]
+- [[Model - Blender Extensions Platform - Free Add-ons for Game Art and Their Licenses]]
+- [[Model - Blender Hotkeys and UI Setup for Roblox Devs]]
+- [[Model - Car Body Blockout from Reference Images - Half Model, Mirror and Wheel Arches]]
+- [[Model - Cute Stylized Pets - Proportions, Topology and Rig-Ready Shapes]]
+- [[Model - Furniture Sets - Shared Dimensions, Seats and Collision]]
+- [[Model - Hair Cards and Cloth Cards - Strips, Alpha Textures and DoubleSided]]
+- [[Model - Low-Poly Guns - Blockout, Moving-Part Split and Readable Silhouettes]]
+- [[Model - Melee Weapon Blockout - Sword, Axe and Hammer from Silhouette to Export]]
+- [[Model - Photogrammetry Scans to Roblox - Decimate, Bake and Delight]]
+- [[Model - Rigid Hats and Backpacks - Blender Recipe to UGC Size Limits]]
+- [[Model - Stylized Food Props - Shapes, Colour and Budgets]]
 - [[Modular Kits and Grid Snapping in Studs]]
 - [[One Material per MeshPart - Splitting vs Atlasing Multi-Material Models]]
 - [[Parts, Unions or MeshParts - Choosing the Geometry Type]]

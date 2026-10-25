@@ -40,6 +40,8 @@ An idle clicker is a numbers game in a menu: click for money, buy generators tha
 3. **Pacing (1.5 h).** Target: first generator in under 15 seconds of clicking, second generator within 3 minutes, third around 15 minutes. Each generator should earn roughly 8-10x the one before and cost roughly 10-12x. Write your numbers in a table first: [[Economy Sources and Sinks Spreadsheet Model]].
 4. **Feel (1 h).** A pop on click, a pulse when you can afford something, a buy sound. [[Recipe - Notification Toasts from the Server]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script
 
 ```lua

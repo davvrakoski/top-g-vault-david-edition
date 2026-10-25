@@ -42,6 +42,8 @@ A tiny horror escape is one of the best weekend projects because fear comes from
 4. **Ending and restart (1 h).** Touching the exit with the fuse shows "You escaped" for 5 seconds, then everyone respawns and items reset. Dead players spectate: [[Recipe - Spectate Mode]].
 5. **Maturity (30 min).** Fill in the content maturity questionnaire honestly; a scary chase is fine but label it. [[Story - Jump Scares, Flashing and Maturity Labels - Ethical Horror on Roblox]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: patrol, see, chase, catch
 
 ```lua

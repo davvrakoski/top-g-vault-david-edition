@@ -35,9 +35,14 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-3 sourced notes added 2026-10-25.
+8 sourced notes added 2026-10-25.
 
 - [[Custom Server Browser with MemoryStore and TeleportAsync]]
 - [[Detecting Server Type - Public, Private, Reserved and Studio]]
+- [[Net - Custom Matchmaking - Signals, Weights and Server Attributes]]
+- [[Net - Friends-Only and Invite-Only Servers - Join Gates]]
+- [[Net - Player Report Queue - Rule-Break Reports to Moderator Review]]
+- [[Net - Roblox Parties - PartyId, GetPartyAsync and Keeping Groups Together]]
+- [[Net - Server Region Labels - Locating Servers for a Server Browser]]
 - [[Synchronized Global Live Events - Server Time and Scheduled Starts]]
 <!-- TG_CK_END -->

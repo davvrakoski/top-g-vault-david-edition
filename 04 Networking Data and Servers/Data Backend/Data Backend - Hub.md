@@ -36,12 +36,19 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-6 sourced notes added 2026-10-25.
+13 sourced notes added 2026-10-25.
 
 - [[Clan and Guild Data - Multi-Writer Keys Without Lost Updates]]
 - [[Cross-Server Auction House - Order Book and Escrow]]
 - [[External Backends with HttpService - Limits, Retries and Idempotency]]
 - [[MemoryStore HashMap Patterns and Quota Math]]
+- [[Net - Inventory Data Models - Stacks, Unique Items and Item IDs]]
+- [[Net - Item Provenance and Dupe Audits - Mint Records and Duplicate-ID Scans]]
+- [[Net - Mixed-Version Servers - Forward-Compatible Saves During Updates]]
+- [[Net - Offline Gifting and Mailboxes - Delivering Items to Players Not Online]]
+- [[Net - Player Data Schema Design - Keys, Defaults and Size Budget]]
+- [[Net - Serial Numbered Items - Atomic Counters for Limited Editions]]
+- [[Net - Staff Audit Logs - Recording Every Admin Action]]
 - [[Testable Save Layer - Fake DataStores and Failure Injection]]
 - [[Weekly and Seasonal Leaderboards with OrderedDataStore]]
 <!-- TG_CK_END -->

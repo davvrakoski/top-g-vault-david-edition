@@ -6,7 +6,7 @@ cssclasses: [tg-a99]
 
 # Community Knowledge Credits 2026-10-25
 
-Sources and licences for the ~576 notes added on 2026-10-25 in every area's `Community Knowledge/` folders and the new lanes in `40 Community Resources/`.
+Sources and licences for the ~770 notes added on 2026-10-25 (two rounds) in every area's `Community Knowledge/` folders and the new lanes in `40 Community Resources/`.
 All text is written in our own words; code snippets are original. Only CC0, CC BY 4.0 and MIT sources are bundle-safe; everything else is linked only.
 
 See also [[Asset Licenses and Credits]].
@@ -99,3 +99,37 @@ See also [[Asset Licenses and Credits]].
 - Link only: Mike Booth "The AI Systems of Left 4 Dead" (Valve 2009) ; Game Developer (Tommy Thompson Alien Isolation; Alissa McAloon jump scares; Leigh Alexander mobile narrative; multiple/alternate endings; Monkey Island 2 puzzles) ; Ron Gilbert puzzle dependency charts ; IFWiki ; Sam Kabo Ashwell ; Emily Short ; Game Accessibility Guidelines ; W3C WCAG 2.1 ; Roblox Community Standards ; DevForum (lilsquish08 closet hiding, ellieflopper camera rig, cutscenes, Blender camera converter, flashlights, Zone) ; Coddy.tech ; EgoVenture ; PC Gamer ; bit-tech ; Superjump ; Filmstories ; EGM ; Dread Central ; No Film School ; Skywind VA handbook ; VoiceActor.com ; SoundInGames wiki ; articy ; Wikipedia Doors (CC BY-SA) ; GDC Vault Elan Ruskin 2012
 ## Recipes lane: 30 notes (03 Scripting/Community Knowledge, "Recipe - ")
 - Link only: DevForum (double jump x2, wall running, wall jump, ledge grab x2) ; rest Roblox Creator Docs CC BY 4.0 (code MIT)
+## Round 2: 3D Art - 21 notes ("Model - ")
+- Link only: Blender Extensions LoopTools (GPL-2.0+), Bool Tool, F2, Extra Mesh Objects, Texel Density Checker (GPL-3.0+) ; Blender devtalk ; Blender licence page ; Blender Manual (CC BY-SA 4.0) ; Roblox Cube (Cube3D Research-Only RAIL-MS) ; ArmorTools/ArmorPaint (zlib source, paid binaries) ; Meshy Terms (free-plan output CC BY 4.0 with credit) ; Tripo blog ; RealityScan (proprietary EULA) ; Meshroom/AliceVision (MPL-2.0 per mirrors) ; DevForum (Glass material, cel-shading threads)
+## Round 2: Vehicles - 24 notes ("Ride - ")
+- RocketSys (anthony0br) | MIT, archived, reference only
+- Link only: ~31 DevForum threads ; Phoenix Skydiving System ; creation.dev spline article ; Factorio forums ; Vortex Studio docs ; Unreal forums ; Steam Skate Sim ; forum.cfx.re T1GER Keys ; Bohemia tracker ; wowprogramming ; Smithsonian How Things Fly ; NASA Glenn lift equation ; UAA ballast poster ; Vaia ; Wikipedia Gondola lift (CC BY-SA)
+## Round 2: Maps - 18 notes ("Map - ")
+- Link/summary only: The Level Design Book (CC BY-NC-SA 4.0) ; Raph Koster ; Unreal Archive wiki ; Team Fortress Wiki (CC BY-SA) ; GtkRadiant docs ; Apex Legends wiki.gg ; TechRadar ; PC Gamer ; Red Blob Games ; Uppsala speldesign blog ; bugnet.io ; DevForum (Ruski's tutorials #1 and #5 by Trustmeimrussian, mini-map thread) ; creation.dev ; Guild Order DayZ ; Wikipedia Proxemics (CC BY-SA 4.0)
+## Round 2: Testing - 20 notes ("Test - ")
+- GitHub Docs (issue forms, templates, labels) | CC BY 4.0
+- Link only: Satisfice SBTM (Bach) ; Explore It! (Hendrickson) ; Hypothesis docs + hypothesis.works ; Principles of Chaos Engineering ; git-scm docs ; DevForum (Removing Backdoors 101, Text Filtering, How to post a bug report)
+## Round 2: Performance - 20 notes ("Speed - ")
+- Luau performance guide (luau.org) | MIT
+- Link only: DevForum threads (lag-free obby, killbrick lag, part lag, lagging bullets, bullet simulation, server hit detection, projectiles, pathfinding question, optimize NPCs, ComputeAsync lag)
+## Round 2: VFX Lighting Weather - 25 notes ("FX - ")
+- Link only: VFX Apprentice "The Soul of Effects" ; Construct forum lightning chain ; DevForum threads (lightning chaining, crater modules incl. Frodev, Bezier Debris, rings module, dash afterimages, particle feedback, Bloxys teleport effect, light tunnel, seamless portals, sparkles, floor material, footsteps R15, footprints in snow)
+## Round 2: Start Here - 19 notes ("Starter - ")
+- Link only: luau.org object-oriented programs (Luau MIT) ; DevForum (zeuxcg Instance.new PSA, Image not appearing, Image Changing issue)
+## Round 2: Characters and Animation - 24 notes ("Anim - ", "Avatar - ")
+- Link only: Game Developer "12 principles of animation" (Jonathan Cooper, Game Anim) ; Game Anim "Fast vs Slow" ; Blender Manual (CC BY-SA 4.0) ; Meta Oculus Lipsync docs ; DevForum threads (landing, wall-run, faces, paired/carry, character loading, character sounds)
+## Round 2: Networking - 19 notes ("Net - ")
+- MIT (bundle-safe): jecs (Ukendio) ; Replecs (PepeElToro41) ; Matter (evaera, archived) + matter-ecs fork
+- Link only: Gaffer on Games (Glenn Fiedler) ; Gabriel Gambetta "Fast-Paced Multiplayer" ; Roblox Newsroom "Join the Party" ; Boulanger/Kienzle/Verbrugge NetGames 2006 ; DevForum threads (soft shutdown, anti dupe, UUIDs, serials, MrChickenRocket lightweight NPCs, 10k NPCs, NPC network, server region x4)
+## Round 3: Start Here weekend builds - 15 notes ("Build - ")
+- Link only: DevForum (tower defense how to start, TD waypoints, Types of Hitboxes, combat hitboxes, pet system)
+## Round 3: Testing genre QA - 14 notes ("QA Pass - ")
+- Link only: ~23 DevForum threads (TD enemy movement, obby anti-cheat + checkpoints + skip stage, EternityNum, tycoon lag/deletion, combat responsiveness/hitboxes, server debounce, egg hatching, racing feedback, housing, rank door, round system, StateSync, trade rollback) ; Valve Developer Community Lag Compensation ; Flowlab Lap System ; uMod Raid Protection
+## Round 2: AI Tools and Workflow - 22 notes ("Flow - ")
+- MIT: Ollama ; Dataview ; Obsidian Git (Vinzent03)
+- Roblox/cube | Cube3D Research-Only RAIL-MS (link only)
+- US Copyright Office NewsNet 1060 + Circular 30 (US gov, public)
+- Link only: Roblox DevForum + Newsroom (Cube) ; Skadden (Thaler v. Perlmutter) ; WHO burn-out ICD-11 ; IGDA DSS ; Anthropic consumer terms ; ElevenLabs help ; Suno help ; Obsidian Help ; git-scm docs ; GitHub Docs ; Discord developer docs ; Rojo/selene/StyLua/luau-lsp
+## Round 2: AI and Combat - 22 notes ("Fight - ", "Brain - ")
+- tranek GASDocumentation | MIT (concepts only) ; Game Development Stack Exchange | CC BY-SA, link only
+- Link only: League of Legends Wiki ; Minecraft Wiki ; Risk of Rain 2 Wiki ; Guild Wars 2 notes + wiki ; Dark Souls wikis ; Overwatch Wiki + Blizzard forums ; Michael Booth "AI Systems of Left 4 Dead" ; PaceMaker arXiv 2408.15001 ; Shacknews ; Tommy Thompson DOOM 2016 ; Jeff Orkin GDC 2006 ; Craig Reynolds ; Game Developer (Pure Advantage, rubber banding) ; UMich EECS494 ; Bugnet ; Game Programming Patterns ; Siege.gg ; Splitgate wiki ; Coddy.tech ; GDC Vault Overwatch replay ; DevForum threads (combo reset, stun, grab/carry, killcam, autoclicker incl. wrello AntiAutoclick) ; The Strongest Battlegrounds page

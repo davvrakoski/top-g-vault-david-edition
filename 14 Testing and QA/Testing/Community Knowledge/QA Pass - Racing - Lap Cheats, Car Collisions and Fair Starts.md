@@ -12,6 +12,7 @@ sources:
   - https://create.roblox.com/docs/projects/server-authority
   - https://create.roblox.com/docs/reference/engine/classes/Workspace
   - https://devforum.roblox.com/t/feedback-on-upcoming-racing-game/311758
+  - https://community.flowlab.io/t/lap-system-jr-01/34347
 ---
 # QA Pass - Racing - Lap Cheats, Car Collisions and Fair Starts
 

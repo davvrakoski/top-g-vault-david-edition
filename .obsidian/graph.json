@@ -330,80 +330,87 @@
       }
     },
     {
-      "query": "path:\"40 Community Resources/Characters Avatars and UGC/\"",
+      "query": "path:\"16 Fast Game Kit/Starter Code/\"",
       "color": {
         "a": 1,
         "rgb": 4582852
       }
     },
     {
-      "query": "path:\"40 Community Resources/Free Animations/\"",
+      "query": "path:\"40 Community Resources/Characters Avatars and UGC/\"",
       "color": {
         "a": 1,
         "rgb": 15569733
       }
     },
     {
-      "query": "path:\"40 Community Resources/Free Tools and Assets/\"",
+      "query": "path:\"40 Community Resources/Free Animations/\"",
       "color": {
         "a": 1,
         "rgb": 6440429
       }
     },
     {
-      "query": "path:\"40 Community Resources/Free VFX and FX/\"",
+      "query": "path:\"40 Community Resources/Free Tools and Assets/\"",
       "color": {
         "a": 1,
         "rgb": 5893445
       }
     },
     {
-      "query": "path:\"40 Community Resources/Maps Worlds and Level Design/\"",
+      "query": "path:\"40 Community Resources/Free VFX and FX/\"",
       "color": {
         "a": 1,
         "rgb": 15549834
       }
     },
     {
-      "query": "path:\"40 Community Resources/Open Source Games/\"",
+      "query": "path:\"40 Community Resources/Maps Worlds and Level Design/\"",
       "color": {
         "a": 1,
         "rgb": 4570093
       }
     },
     {
-      "query": "path:\"40 Community Resources/Performance and Security/\"",
+      "query": "path:\"40 Community Resources/Open Source Games/\"",
       "color": {
         "a": 1,
         "rgb": 15527237
       }
     },
     {
-      "query": "path:\"40 Community Resources/Reddit Game Design and Growth/\"",
+      "query": "path:\"40 Community Resources/Performance and Security/\"",
       "color": {
         "a": 1,
         "rgb": 12404205
       }
     },
     {
-      "query": "path:\"40 Community Resources/Reddit Scripting and Systems/\"",
+      "query": "path:\"40 Community Resources/Reddit Game Design and Growth/\"",
       "color": {
         "a": 1,
         "rgb": 4582796
       }
     },
     {
-      "query": "path:\"40 Community Resources/Testing QA and DevOps/\"",
+      "query": "path:\"40 Community Resources/Reddit Scripting and Systems/\"",
       "color": {
         "a": 1,
         "rgb": 15555397
       }
     },
     {
-      "query": "path:\"40 Community Resources/Vehicles and Physics/\"",
+      "query": "path:\"40 Community Resources/Testing QA and DevOps/\"",
       "color": {
         "a": 1,
         "rgb": 4546797
+      }
+    },
+    {
+      "query": "path:\"40 Community Resources/Vehicles and Physics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9563461
       }
     },
     {

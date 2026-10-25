@@ -42,6 +42,8 @@ Survival games stack three loops: gather resources, craft them into items, and b
 3. **Campfire (30 min).** Standing near a placed campfire heals slowly: [[Recipe - Healing Zones and Safe Zones]].
 4. **Wrap (30 min).** Decide: saving bases is a big job (ownership, limits, data size). For this weekend, servers reset; say so on the game page.
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: gather, craft, place
 
 ```lua

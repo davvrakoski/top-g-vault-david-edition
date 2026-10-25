@@ -39,12 +39,20 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-11 sourced notes added 2026-10-25.
+19 sourced notes added 2026-10-25.
 
 - [[Art - Colour Palettes for a Consistent Look - Value, Saturation and Accent Rules]]
 - [[Art - Studio AI Material and Texture Generators - Choosing, Prompting and Cleaning Up]]
 - [[Glowing Surfaces - Neon Material, Emissive Masks and Bloom]]
 - [[MaterialVariant and MaterialService - Custom Materials for Parts and Terrain]]
+- [[Model - Choosing a Texture Painter - Substance Painter, ArmorPaint or Blender]]
+- [[Model - Glass, Ice and Liquid Props - Glass Material, Transparency and Refraction Limits]]
+- [[Model - Hand-Painted Texture Style on Roblox - Baked Light, Edge Highlights and Flat PBR]]
+- [[Model - Metal and Plastic Looks with Built-in Materials - Presets, Reflectance and When to Upgrade]]
+- [[Model - PBR Decals and Textures - Normal, Roughness, Metalness and Emissive Maps on Decal]]
+- [[Model - Texture Painting in Blender - Setup, Layers by Baking and Export to SurfaceAppearance]]
+- [[Model - Toon and Cel Looks on Roblox - Inverted Hull Outlines, Ramps and Highlight Limits]]
+- [[Model - Weathering and Grime - Edge Wear, Dirt Masks and Decal Layers]]
 - [[Normal Map Rules for Roblox - OpenGL Green, Tangents and Flat Values]]
 - [[PBR Value Cheat Sheet - Albedo, Metalness and Roughness Ranges]]
 - [[Pixel Art and Retro Textures - ResampleMode Pixelated and Crisp Low-Res Looks]]

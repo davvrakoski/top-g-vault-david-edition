@@ -37,8 +37,12 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-8 sourced notes added 2026-10-25.
+12 sourced notes added 2026-10-25.
 
+- [[Map - Foliage Concealment in PvP - Bushes, Sight Raycasts and Name Occlusion]]
+- [[Map - Survival Resource Distribution - Risk Rings, Node Clusters and Respawn Timers]]
+- [[Map - Walkable Slopes and Terrain Height - MaxSlopeAngle, Ramps and Climb Barriers]]
+- [[Map - Water as a Level Design Tool - Rivers as Barriers, Bridges, Fords and Boat Routes]]
 - [[Poisson Disk Scatter for Trees, Rocks and Props]]
 - [[Roads, Paths and Rivers on Terrain - Carving Along a Curve]]
 - [[Runtime Terrain Destruction and Digging - Craters, FillBall and Replication]]

@@ -44,6 +44,8 @@ A hangout or showcase has no win state: people come to talk, sit, take screensho
 4. **Chat and safety (1 h).** Hangouts are chat-first. Keep TextChatService on, filter all player text you display, and add a join message. [[Text Chat, Moderation and Player Safety]] and [[Recipe - Join, Leave and Server Messages in Chat]].
 5. **Performance (30 min).** Lots of decoration hurts phones; check [[Speed - Pre-Publish Performance Gate - Numbers to Pass Before Every Release]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: a dance floor every client sees in sync
 
 ```lua

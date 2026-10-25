@@ -34,8 +34,11 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-5 sourced notes added 2026-10-25.
+8 sourced notes added 2026-10-25.
 
+- [[FX - Seasonal Particles - Falling Leaves, Cherry Blossoms and Pollen]]
+- [[FX - Seeded Weather Schedules - Same Weather and Forecast on Every Server]]
+- [[FX - Weather That Changes Gameplay - Wet Grip, Visibility, Hearing and Wind Drift]]
 - [[Fog Options - Lighting Fog vs Atmosphere vs Local Fog Volumes]]
 - [[GlobalWind - Grass, Clouds, Particles and Gusts]]
 - [[Rain Splashes and Ripples - Raycast Sampling Around the Camera]]

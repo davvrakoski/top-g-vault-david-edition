@@ -39,7 +39,7 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-37 sourced notes added 2026-10-25.
+61 sourced notes added 2026-10-25.
 
 - [[Ackermann Steering Geometry for Roblox Cars]]
 - [[Center of Mass, Anti-Flip and Self-Righting]]
@@ -67,6 +67,30 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 - [[Racing - Track Progress, Wrong-Way Detection and Live Positions]]
 - [[Racing - Tuning Menus and Performance Index Balancing]]
 - [[Racing - Visual Crash Damage - Part Swaps, Detachable Panels and Dents]]
+- [[Ride - Amphibious Vehicles - Land to Water Mode Handoff]]
+- [[Ride - Anchors and Mooring with RopeConstraint]]
+- [[Ride - Bicycles - Pedal Cadence, Stamina and IK Feet on Pedals]]
+- [[Ride - Boat Planing, Hull Trim and Speed-Driven Wakes]]
+- [[Ride - Cable Cars, Ski Lifts and Ziplines - Looping Cables and Rider Attach]]
+- [[Ride - Car Radios and Horns - Synced Stations, Spatial Audio and Spam Limits]]
+- [[Ride - Carnival Rides - Ride Cycles, Restraints and Motor Programs]]
+- [[Ride - Cranes and Construction Vehicles - Winch Hooks, Booms and Excavator Arms]]
+- [[Ride - Elevators - Multi-Floor Call Queues, Doors and Rider Safety]]
+- [[Ride - Hot Air Balloons and Blimps - Lift Gas, Wind Drift and Altitude Layers]]
+- [[Ride - Jet Skis - Thrust Only in Water, Jumps and Rider Lean]]
+- [[Ride - Mechs and Walkers - Raycast Foot Targets and Gait Timing]]
+- [[Ride - Multi-Seat Vehicles - Passenger, Gunner and Commander Roles]]
+- [[Ride - Parachutes, Paragliders and Wingsuits - Drag States for Falling Players]]
+- [[Ride - Plane Stall, Flaps, Landing Gear and Runway Rules]]
+- [[Ride - Repair Shops and Insurance - Vehicle Loss Economies]]
+- [[Ride - Rockets and Space Travel - Staging, Launch Sequences and Place Hops]]
+- [[Ride - Roleplay Traffic Laws - Speed Zones, Parking Spots, Tickets and Impound]]
+- [[Ride - Roller Coasters - Track Splines, Chain Lifts and Energy-Based Speed]]
+- [[Ride - Skateboards and Hoverboards - Ollies, Grinds and Trick Scoring]]
+- [[Ride - Submarines - Ballast Tanks, Depth Hold and Crush Depth]]
+- [[Ride - Tank Turrets - Yaw and Pitch Servos Aimed in Local Space]]
+- [[Ride - Train Signals, Track Switches and Multi-Car Consists]]
+- [[Ride - Vehicle Locks, Keys and Theft - Lockpicks, Hotwiring and Server Checks]]
 - [[Seat Entry with ProximityPrompt - No More Accidental Sits]]
 - [[Trailers and Towing with BallSocketConstraint]]
 - [[Tyre Friction with CustomPhysicalProperties]]

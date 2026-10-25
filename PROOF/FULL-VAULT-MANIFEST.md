@@ -4,10 +4,10 @@ Generated 2026-10-25 from the complete vault on the author's PC.
 
 | | |
 |---|--:|
-| **Total size** | **54.72 GB** (54,723,902,450 bytes) |
-| **Files** | 30,503 |
+| **Total size** | **54.72 GB** (54,724,034,554 bytes) |
+| **Files** | 30,514 |
 | **FBX models / animations** | 10,040 |
-| **Notes (.md)** | 3,967 |
+| **Notes (.md)** | 3,978 |
 
 This GitHub repo is the free **showcase** (notes + plugin + previews, ~0.2 GB). GitHub refuses files over 100 MB, so the 3D models, textures and 4K pack are only in the full vault. Every file in the full vault is listed with its exact size in [full-vault-file-list.txt](full-vault-file-list.txt).
 
@@ -33,7 +33,7 @@ This GitHub repo is the free **showcase** (notes + plugin + previews, ~0.2 GB). 
 | 13 Growth and Monetization | 124 | 0.5 MB |
 | 14 Testing and QA | 77 | 0.4 MB |
 | 15 AI Tools and Workflow | 100 | 0.4 MB |
-| 16 Fast Game Kit | 36 | 0.2 MB |
+| 16 Fast Game Kit | 47 | 0.3 MB |
 | 20 FBX Asset Library | 21,006 | 53.00 GB |
 | 30 Official Roblox Docs | 7,816 | 1.72 GB |
 | 40 Community Resources | 318 | 1.3 MB |
@@ -61,7 +61,7 @@ This GitHub repo is the free **showcase** (notes + plugin + previews, ~0.2 GB). 
 | .fbx | 10,040 | 11.81 GB |
 | .jpg | 3,128 | 4.33 GB |
 | .gif | 18 | 88.3 MB |
-| .md | 3,967 | 27.2 MB |
+| .md | 3,978 | 27.3 MB |
 | .jpeg | 147 | 18.9 MB |
 | .txt | 443 | 0.7 MB |
 | .webp | 4 | 0.7 MB |

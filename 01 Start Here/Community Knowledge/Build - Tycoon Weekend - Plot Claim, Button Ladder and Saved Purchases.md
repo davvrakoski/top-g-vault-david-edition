@@ -41,6 +41,8 @@ sources:
 3. **Pacing pass (1.5 h).** Each button should take roughly 1.3-1.6x longer to afford than the one before; place a new dropper every 4-5 buttons so income jumps. Play your own ladder start to end with a stopwatch.
 4. **Performance (45 min).** Cap dropped parts per plot and destroy them at the collector; see [[Speed - Case Study - Fixing a Laggy Tycoon]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: one ladder for every plot
 
 ```lua

@@ -43,6 +43,8 @@ Battlegrounds games (free-for-all arenas where everyone punches everyone) live o
 3. **Feel (1.5 h).** Hit sound, small camera shake for the attacker, a white flash on the victim, damage numbers. [[Damage Numbers and Overhead Bars with BillboardGui]], [[Hitstun, I-Frames, Poise and Super Armor]].
 4. **Match (30 min).** A `Kills` leaderstat, credit to the last attacker within 10 s: [[Kill Credit, Assists and Damage Attribution]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: server-side M1
 
 ```lua

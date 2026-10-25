@@ -47,13 +47,26 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-9 sourced notes added 2026-10-25.
+22 sourced notes added 2026-10-25.
 
 - [[Aim Assist for Gamepad and Touch]]
 - [[Boss Fight Design - Phases, Telegraphs and Arena Rules]]
 - [[Combat Tagging and Combat Logging Penalties]]
 - [[Downed, Revive and Bleed-Out States]]
 - [[Explosions - Radius Damage, Falloff and Cover Checks]]
+- [[Fight - Autoclicker and Macro Detection for Combat Remotes]]
+- [[Fight - Battlegrounds M1 Chains - Hit Strings, Stun Refresh and Combo Reset]]
+- [[Fight - Damage Formula Pipeline - Armor, Penetration, Resistances and Crits]]
+- [[Fight - Data-Driven Abilities - Cooldowns, Charges, Costs and Blocking Tags]]
+- [[Fight - Friendly Fire and Team Damage Rules]]
+- [[Fight - Grabs, Carries and Throws - Welding Victims Safely]]
+- [[Fight - Healing and Support Roles - Heal Targeting, Overheal, Anti-Heal and Credit]]
+- [[Fight - Killcams and Death Recaps - Rolling Buffers and Damage Summaries]]
+- [[Fight - Melee Weapon Archetypes - Reach, Speed, Cleave and Charge]]
+- [[Fight - Souls-like Stamina Combat - Costs, Regen Delay, Guard Break and Exhaustion]]
+- [[Fight - Status Effect Stacking Rules - Refresh, Intensity, Duration and Caps]]
+- [[Fight - Time-to-Kill Math and the Weapon Balance Sheet]]
+- [[Fight - Ultimate and Super Meters - Charge Sources and Anti-Farm Rules]]
 - [[Headshots and Hit Zones - Damage Multipliers and Accessory Hits]]
 - [[Kill Credit, Assists and Damage Attribution]]
 - [[Parry, Block and Guard Break - Timing Windows Over the Network]]

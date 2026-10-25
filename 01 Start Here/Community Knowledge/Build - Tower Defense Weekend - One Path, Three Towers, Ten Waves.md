@@ -44,6 +44,8 @@ Tower defense looks big (units, maps, lobbies, trading), but the playable heart 
 4. **Win screen (30 min).** After wave 10 is cleared, show a "Victory" GUI to all players. [[First GUI Button - ScreenGui, TextButton and Activated]].
 5. **Balance pass (30 min).** Play solo. If you never lose cash, raise tower cost by 20 percent; if wave 3 kills you, lower enemy health.
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: one mover for all enemies
 
 ```lua

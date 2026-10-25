@@ -40,8 +40,16 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-30 sourced notes added 2026-10-25.
+38 sourced notes added 2026-10-25.
 
+- [[Flow - AI Images for Thumbnails and Icons - Workflow, Accuracy Rules and Pitfalls]]
+- [[Flow - AI Voice and Music Generators - Licence Tiers and Consent for Roblox Games]]
+- [[Flow - AI for Design Docs and Balancing Spreadsheets - Draft Fast, Check the Math]]
+- [[Flow - Agent Self-Check Loop - Lint, Types, Tests and Build Before You Read the Diff]]
+- [[Flow - Local vs Cloud AI - Keeping Unreleased Game Code Private]]
+- [[Flow - Prompting AI for Correct Roblox Code - Context Packs, API Names and Acceptance Tests]]
+- [[Flow - Reviewing AI-Written Luau - Checklist of Common AI Mistakes]]
+- [[Flow - Roblox Built-in AI Tools Timeline 2023-2026 - What Exists and When It Shipped]]
 - [[Moving from studio-rust-mcp-server to the Built-in Studio MCP]]
 - [[Roblox Assistant Skills and Planning Mode - Team Setup]]
 - [[Studio Tools - Azul - Studio-First Two-Way Sync for VS Code (GPL-3.0)]]

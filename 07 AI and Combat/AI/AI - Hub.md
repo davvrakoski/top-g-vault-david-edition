@@ -43,8 +43,17 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-10 sourced notes added 2026-10-25.
+19 sourced notes added 2026-10-25.
 
+- [[Brain - AI Difficulty Levels - Reaction Time, Aim Error and Fair Misses]]
+- [[Brain - Adaptive Pacing with Player Intensity - Build Up, Peak, Fade and Relax]]
+- [[Brain - Attack Tokens and Squad Roles - Limiting Attackers, Flanking and Suppression]]
+- [[Brain - Boss Move Selection - Weighted Pattern Tables, Range Gates and No-Repeat Rules]]
+- [[Brain - Chase AI for Vehicles and Racers - Pursuit Prediction and Skill Balancing]]
+- [[Brain - Credit-Based Spawn Director and Player-Count Scaling]]
+- [[Brain - Debugging AI with On-Screen State Labels, Path Lines and Perception Gizmos]]
+- [[Brain - PvE Enemy Archetypes - Fodder, Tank, Ranged, Disabler, Healer and Exploder]]
+- [[Brain - Wildlife and Ambient Creature AI - Passive, Neutral and Hostile Behaviors]]
 - [[Companion and Pet Follower AI]]
 - [[Designing Levels for NPC Navigation - Costs, Modifiers and Links]]
 - [[Flow Fields for Large Hordes]]

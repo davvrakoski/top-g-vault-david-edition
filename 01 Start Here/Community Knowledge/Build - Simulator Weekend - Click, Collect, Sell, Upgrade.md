@@ -43,6 +43,8 @@ The simulator loop is the most copied loop on Roblox: press to gather, your bag 
 3. **Juice (1 h).** A pop sound and a floating "+3" on each swing, a coin burst at the sell pad. [[FX - Collectible Pickups - Idle Glint, Magnet Pull and Collect Pop]].
 4. **Pacing check (30 min).** Time yourself: the first upgrade should come in under 60 seconds, the fifth in about 10 minutes. Adjust base costs, not the formula shape.
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script
 
 ```lua

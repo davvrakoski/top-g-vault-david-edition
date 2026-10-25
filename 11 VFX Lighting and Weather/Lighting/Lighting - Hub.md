@@ -38,8 +38,12 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-3 sourced notes added 2026-10-25.
+7 sourced notes added 2026-10-25.
 
+- [[FX - Horror Fog and Brightness Calibration - Silhouettes, Fog Walls and a Gamma Screen]]
+- [[FX - Interior Fake Bounce Light - Ambient, Fill Lights and Floor Glow]]
+- [[FX - Neon City at Night - Signs, Light Pools and Fake Wet Reflections]]
+- [[FX - Night Sky Events - Auroras, Shooting Stars and Blood Moons]]
 - [[Fake Volumetric Light Shafts - Beams and SunRays]]
 - [[Local Light Budgets - PointLight, SpotLight and SurfaceLight]]
 - [[Sky Instance - Custom Skyboxes, Sun, Moon and Stars]]

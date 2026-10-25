@@ -5,7 +5,7 @@ cssclasses: [tg-a01, top-g-home]
 ---
 # 👑 TOP G VAULT
 > [!topg] The Roblox game-dev brain in one place
-> **3,941 notes** · **77 deep dives** · **10,040 FBX files** · **55 GB** · every topic has its own colour on the graph and in the sidebar.
+> **3,978 notes** · **77 deep dives** · **10,040 FBX files** · **55 GB** · every topic has its own colour on the graph and in the sidebar.
 
 ## Start in 3 steps
 1. Pick a coloured section below and open a **Hub**.
@@ -74,7 +74,7 @@ flowchart LR
 
  Colour | Area | Notes | Deep dives | Open a hub
 :-:|---|--:|--:|---
-<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#FF006E"></span> | **Fast Game Kit** | 17 |  | [[Fast Game Kit - Hub\|Fast Game Kit]] · [[Genre Recipes - Hub\|Genre Recipes]] · [[Playbook - Hub\|Playbook]]
+<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#FF006E"></span> | **Fast Game Kit** | 28 |  | [[Fast Game Kit - Hub\|Fast Game Kit]] · [[Genre Recipes - Hub\|Genre Recipes]] · [[Playbook - Hub\|Playbook]] · [[Starter Code - Hub\|Starter Code]]
 
 ## 🎯 Plan and Grow
 
@@ -90,14 +90,14 @@ flowchart LR
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#3A86FF"></span> | **Scripting and Systems** | 110 | 8 | [[Math Geometry - Hub\|Math Geometry]] · [[Physics Ragdolls - Hub\|Physics Ragdolls]] · [[Procedural Generation - Hub\|Procedural Generation]] · [[Scripting - Hub\|Scripting]]
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#00B4D8"></span> | **Networking Data and Servers** | 73 | 9 | [[Data Backend - Hub\|Data Backend]] · [[Networking Security - Hub\|Networking Security]] · [[Server Engineering - Hub\|Server Engineering]]
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#4CC9F0"></span> | **Performance and Optimization** | 72 | 6 | [[Optimization - Hub\|Optimization]] · [[Performance - Hub\|Performance]]
-<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#7B2CBF"></span> | **Testing and QA** | 70 | 5 | [[Testing - Hub\|Testing]]
+<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#7B2CBF"></span> | **Testing and QA** | 77 | 5 | [[Testing - Hub\|Testing]]
 
 ## ⚔️ Gameplay
 
  Colour | Area | Notes | Deep dives | Open a hub
 :-:|---|--:|--:|---
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#38B000"></span> | **Characters and Animation** | 70 | 6 | [[Animation - Hub\|Animation]] · [[Characters Customization - Hub\|Characters Customization]]
-<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#F94144"></span> | **AI and Combat** | 79 | 9 | [[AI - Hub\|AI]] · [[Combat - Hub\|Combat]]
+<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#F94144"></span> | **AI and Combat** | 88 | 9 | [[AI - Hub\|AI]] · [[Combat - Hub\|Combat]]
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#B5179E"></span> | **Vehicles** | 74 | 4 | [[Vehicles - Hub\|Vehicles]]
 
 ## 🎨 Art and World
@@ -113,7 +113,7 @@ flowchart LR
 
  Colour | Area | Notes | Deep dives | Open a hub
 :-:|---|--:|--:|---
-<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#2EC4B6"></span> | **AI Tools and Workflow** | 92 | 2 | [[Claude MCP AI Workflow - Hub\|Claude MCP AI Workflow]] · [[Git Version Control - Hub\|Git Version Control]] · [[Graph View Setup - Hub\|Graph View Setup]] · [[Obsidian Workflow - Hub\|Obsidian Workflow]] · [[Open Source Licensing - Hub\|Open Source Licensing]]
+<span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#2EC4B6"></span> | **AI Tools and Workflow** | 100 | 2 | [[Claude MCP AI Workflow - Hub\|Claude MCP AI Workflow]] · [[Git Version Control - Hub\|Git Version Control]] · [[Graph View Setup - Hub\|Graph View Setup]] · [[Obsidian Workflow - Hub\|Obsidian Workflow]] · [[Open Source Licensing - Hub\|Open Source Licensing]]
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#E63946"></span> | **Official Roblox Docs** | 2,232 |  | [[Official Roblox Docs - Hub\|Official Roblox Docs]]
 <span style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#E9C46A"></span> | **FBX Asset Library** | 10,040 FBX |  | [[FBX Asset Library - Hub\|FBX Asset Library]] · [[Asset Licenses and Credits\|Asset Licenses and Credits]]
 
@@ -138,7 +138,7 @@ flowchart LR
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-69 sourced notes added 2026-10-25.
+70 sourced notes added 2026-10-25.
 
 - [[Beginner to Shipping Roadmap]]
 - [[Build - Arena Shooter Weekend - Server-Checked Blaster, Respawns and Kills]]
@@ -149,6 +149,7 @@ flowchart LR
 - [[Build - Idle Clicker Weekend - Click, Generators, Cost Curves and Offline Cash]]
 - [[Build - Minigame Party Weekend - Round Loop and Three Plug-In Minigames]]
 - [[Build - Obby Weekend - 30 Stages, Obstacle Tags and a Skip Button]]
+- [[Build - Pet Collector Weekend - Eggs, Shown Odds, Follow Pets and Saving]]
 - [[Build - Racing Weekend - One Track, Checkpoints and Three Laps]]
 - [[Build - Roleplay Town Weekend - Three Jobs, Paychecks and a House]]
 - [[Build - Simulator Weekend - Click, Collect, Sell, Upgrade]]

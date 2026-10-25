@@ -42,6 +42,8 @@ sources:
 3. **Funnel (30 min).** Log a funnel step per stage so you can see where people quit. [[Zone and Stage Funnels with AnalyticsService]].
 4. **Lag pass (1 h).** Anchor everything, delete unused unions, check the server stays light: [[Speed - Case Study - Fixing a Laggy Obby]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: one kit for every obstacle
 
 ```lua

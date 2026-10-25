@@ -40,10 +40,17 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-5 sourced notes added 2026-10-25.
+12 sourced notes added 2026-10-25.
 
 - [[Exploit Strike Scores - Decaying Suspicion, Evidence Logs and Response Ladders]]
 - [[Instance Arguments Over Remotes - Nil, Streaming and Ownership Checks]]
+- [[Net - Custom Entity Replication - Server Data, Client Models]]
+- [[Net - ECS Networking - Replicating jecs Components with Replecs]]
+- [[Net - Interest Management - Choosing Which Entities Each Player Receives]]
+- [[Net - Predicting Movement Abilities - Dashes, Double Jumps and Server Checks]]
+- [[Net - Server-Owned NPCs - Network Ownership for Moving NPCs]]
+- [[Net - Snapshot Interpolation - Render Delay, Buffers and Extrapolation Limits]]
+- [[Net - Trusting Analytics - Server Facts vs Client Reports]]
 - [[RemoteFunction Pitfalls - InvokeClient, Yields and Timeouts]]
 - [[Tool Security - Equip Checks, Server Cooldowns and Dropped Tools]]
 - [[What a Client Controls on Its Own Character - Replication Exceptions]]

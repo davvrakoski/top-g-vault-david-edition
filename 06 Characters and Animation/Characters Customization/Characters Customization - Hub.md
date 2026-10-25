@@ -39,9 +39,16 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-8 sourced notes added 2026-10-25.
+15 sourced notes added 2026-10-25.
 
 - [[Accessories by Script - AddAccessory, Attachment Names and Game Gear]]
+- [[Avatar - Character Loading Performance - Spawn Time, Appearance Cost and Layered Clothing]]
+- [[Avatar - Click-a-Player Menus - Avatar Context Menu, Inspect and Custom Player Cards]]
+- [[Avatar - Cosmetic Trails and Auras on the Character - Attachments, Ownership and Budgets]]
+- [[Avatar - Custom Character Sounds - Forking RbxCharacterSounds and Per-Character Sound Sets]]
+- [[Avatar - Invisibility, Ghost and Cloak Effects - Per-Viewer Visibility Done Right]]
+- [[Avatar - NPC Look Randomizer - Seeded Palettes, Weighted Part Pools and Rules]]
+- [[Avatar - Saving Custom Outfits - Compact DataStore Format, Validation and Migration]]
 - [[Char - Character Select and Class Systems with Different Rigs]]
 - [[Char - Nametags and Overhead UI with BillboardGui]]
 - [[Char - Team Outlines with Highlight]]

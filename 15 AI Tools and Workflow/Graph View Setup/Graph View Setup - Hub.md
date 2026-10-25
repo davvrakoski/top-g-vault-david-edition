@@ -31,3 +31,12 @@ Turn off **Attachments** and **Tags as nodes** (already disabled in the supplied
 
 ## If colors do not appear
 Open Graph settings -> **Groups**. The included groups should be present. If Obsidian was already open while the vault files were replaced, close/reopen the graph or reload Obsidian so it reads the packaged configuration.
+
+<!-- TG_CK_START -->
+## Community Knowledge
+
+2 sourced notes added 2026-10-25.
+
+- [[Flow - Graph View Groups, Filters and Forces for a Game Dev Vault]]
+- [[Flow - Local Graph, Orphans and Unlinked Mentions - Keeping a Vault Connected]]
+<!-- TG_CK_END -->

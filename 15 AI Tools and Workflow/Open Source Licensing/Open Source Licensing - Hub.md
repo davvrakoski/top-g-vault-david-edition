@@ -36,10 +36,12 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-4 sourced notes added 2026-10-25.
+6 sourced notes added 2026-10-25.
 
 - [[Attribution in Practice - Credits Screens and License Files]]
 - [[Code Licenses Compared for Roblox Devs - MIT, Apache, MPL, GPL, AGPL]]
 - [[Creative Commons for Game Assets - What Each License Allows]]
+- [[Flow - Team and Freelancer IP on Roblox - Assignment, Group Ownership and Revenue Splits]]
+- [[Flow - Who Owns AI-Generated Code and Assets - Copyright Status and Tool Terms]]
 - [[Licenses of Popular Roblox Libraries - Quick Table]]
 <!-- TG_CK_END -->

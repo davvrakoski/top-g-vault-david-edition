@@ -1,0 +1,37 @@
+{
+  "name": "FastGameKit",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    },
+    "SoundService": {
+      "Music": {
+        "$className": "SoundGroup",
+        "$properties": {
+          "Volume": 0.5
+        }
+      },
+      "SFX": {
+        "$className": "SoundGroup",
+        "$properties": {
+          "Volume": 0.8
+        }
+      }
+    }
+  }
+}

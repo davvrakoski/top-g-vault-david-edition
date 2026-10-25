@@ -43,7 +43,7 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-13 sourced notes added 2026-10-25.
+21 sourced notes added 2026-10-25.
 
 - [[BillboardGui Cost - Nametags, Health Bars and MaxDistance]]
 - [[Choosing MaxPlayers - Server Memory, CPU and Map Size]]
@@ -57,5 +57,13 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 - [[Perf - ViewportFrame Cost - Item Previews Without Frame Drops]]
 - [[Remote Send Rate - Batching, Deltas and When One Remote Is Not Faster]]
 - [[Shadow and Light Source Cost - CastShadow, Light Shadows and Lighting Technology]]
+- [[Speed - DataStore Request Budgeting at Scale - Server and Experience Limits]]
+- [[Speed - First-Use Hitches - Preloading Animations and Sounds Without Bloating Join]]
+- [[Speed - Initial Join Time - From Clicking Play to Player Control]]
+- [[Speed - Pre-Publish Performance Gate - Numbers to Pass Before Every Release]]
+- [[Speed - Scene Analysis Walkthrough - Script, Animation, Audio Memory and Unparented Instances]]
+- [[Speed - Transparent Batching - Concurrent Marketplace and Catalog Lookups]]
+- [[Speed - Type Annotations and Runtime Speed - What Types Actually Change]]
+- [[Speed - native in Practice - Picking Functions, Checking Code Size and Avoiding Deopts]]
 - [[Workspace Settings Audit - Performance-Relevant Properties]]
 <!-- TG_CK_END -->

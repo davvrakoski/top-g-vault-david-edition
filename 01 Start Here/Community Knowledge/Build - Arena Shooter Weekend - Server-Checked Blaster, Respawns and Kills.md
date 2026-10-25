@@ -44,6 +44,8 @@ A free-for-all arena shooter is a strong weekend build because the loop is insta
 4. **Spread (1 h).** Optional: a little random spread while moving. [[Recoil, Spread and Bloom for Roblox Guns]].
 5. **Readable maps (30 min).** Name 3-5 areas so players can call them: [[Map - Callouts and Area Names - Naming Zones Players Can Shout]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: the server casts the ray
 
 ```lua

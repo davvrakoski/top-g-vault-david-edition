@@ -44,6 +44,8 @@ Good first minigames, all with "last alive wins" or "first to touch wins" rules:
 4. **Load spikes (30 min).** Cloning an arena and teleporting everyone in one frame can hitch; read [[Speed - Round Start Spikes - Map Loads, Mass Spawns and Teleport Bursts]].
 5. **Badge (30 min).** "Win 10 games": [[First Badge - Award on Achievement]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: one loop, any minigame
 
 ```lua

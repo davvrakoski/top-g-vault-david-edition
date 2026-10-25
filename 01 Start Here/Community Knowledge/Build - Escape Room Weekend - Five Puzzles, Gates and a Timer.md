@@ -41,6 +41,8 @@ A story escape room is a chain of locks: each puzzle opens a door or a box that 
 4. **Hints (1 h).** At 5, 9 and 12 minutes, if the next puzzle is still unsolved, show a nudge on a wall screen. Make the first hint vague and the third almost the answer.
 5. **Ending (30 min).** Touching the exit shows the time and a "Play again" button; award a badge. Replay ideas: [[Story - Endings and Replayability - Multiple Endings, Badges and Post-Game Hooks]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: solved set, gates and a keypad
 
 ```lua

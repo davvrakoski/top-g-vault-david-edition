@@ -41,6 +41,8 @@ Writing a good car from scratch takes longer than a weekend, so a beginner racin
 3. **Reset key (45 min).** Press R: the server moves the car to the last checkpoint reached, upright, speed zero. This removes most "I flipped and quit" moments.
 4. **Camera and feel (1 h).** Small FOV push at high speed: [[Racing - Chase Camera and Speed Effects - FOV, Shake and Speed Lines]].
 
+> **Code status:** original example, not run in Studio. API names checked against `30 Official Roblox Docs/API Reference` (2026-10-25).
+
 ## The core script: ordered checkpoints and laps
 
 ```lua

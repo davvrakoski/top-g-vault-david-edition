@@ -1,22 +1,22 @@
 # Top G Vault - full file list, generated 2026-10-25
-# 30,503 files, 54,723,902,450 bytes (54.72 GB)
+# 30,514 files, 54,724,034,554 bytes (54.72 GB)
 # path<TAB>bytes
 .obsidian/app.json	402
 .obsidian/appearance.json	131
 .obsidian/bookmarks.json	673
 .obsidian/community-plugins.json	25
 .obsidian/core-plugins.json	294
-.obsidian/graph.json	18576
+.obsidian/graph.json	18718
 .obsidian/plugins/top-g-graph-music/coin-face.png	455271
 .obsidian/plugins/top-g-graph-music/main.js	69351
 .obsidian/plugins/top-g-graph-music/manifest.json	321
 .obsidian/plugins/top-g-graph-music/styles.css	80361
 .obsidian/plugins/top-g-graph-music/tdod-logo.webp	276910
 .obsidian/plugins/top-g-graph-music/topg-chip.svg	3346
-.obsidian/snippets/top-g-vault.css	56288
+.obsidian/snippets/top-g-vault.css	56647
 .obsidian/templates.json	54
 00 Inbox/Inbox.md	190
-00 START HERE - Top G Vault.md	14194
+00 START HERE - Top G Vault.md	14314
 01 Start Here/Community Knowledge/Beginner to Shipping Roadmap.md	5711
 01 Start Here/Community Knowledge/Build - Arena Shooter Weekend - Server-Checked Blaster, Respawns and Kills.md	7557
 01 Start Here/Community Knowledge/Build - Battlegrounds Weekend - Four-Hit M1 Combo and One Ability.md	7189
@@ -1344,7 +1344,7 @@
 16 Fast Game Kit/Source/src/client/ClientMain.client.luau	1575
 16 Fast Game Kit/Source/src/client/Controllers/Hud.luau	3551
 16 Fast Game Kit/Source/src/client/Controllers/SettingsPanel.luau	3079
-16 Fast Game Kit/Source/src/client/Controllers/ShopPanel.luau	5651
+16 Fast Game Kit/Source/src/client/Controllers/ShopPanel.luau	5951
 16 Fast Game Kit/Source/src/client/UI/ButtonTween.luau	2603
 16 Fast Game Kit/Source/src/client/UI/Ui.luau	4382
 16 Fast Game Kit/Source/src/server/Bootstrap.server.luau	1141
@@ -1354,11 +1354,22 @@
 16 Fast Game Kit/Source/src/server/Services/DataTemplate.luau	3259
 16 Fast Game Kit/Source/src/server/Services/Monetization.luau	6722
 16 Fast Game Kit/Source/src/server/Services/PlayerData.luau	12376
-16 Fast Game Kit/Source/src/server/Services/Rewards.luau	5101
+16 Fast Game Kit/Source/src/server/Services/Rewards.luau	5113
 16 Fast Game Kit/Source/src/server/Services/Settings.luau	1776
 16 Fast Game Kit/Source/src/server/Services/Shop.luau	3218
-16 Fast Game Kit/Source/src/shared/GameConfig.luau	2490
+16 Fast Game Kit/Source/src/shared/GameConfig.luau	2524
 16 Fast Game Kit/Source/src/shared/Remotes.luau	9763
+16 Fast Game Kit/Starter Code/Starter Code - 01 Project Layout and Bootstrap.md	9955
+16 Fast Game Kit/Starter Code/Starter Code - 02 PlayerData Session-Locked Saves.md	21738
+16 Fast Game Kit/Starter Code/Starter Code - 03 Leaderstats and Currency.md	10850
+16 Fast Game Kit/Starter Code/Starter Code - 04 Monetization - Passes and ProcessReceipt.md	12749
+16 Fast Game Kit/Starter Code/Starter Code - 05 Remotes Layer.md	14589
+16 Fast Game Kit/Starter Code/Starter Code - 06 Analytics Events.md	9680
+16 Fast Game Kit/Starter Code/Starter Code - 07 Daily Reward and Codes.md	9372
+16 Fast Game Kit/Starter Code/Starter Code - 08 Client UI - HUD, Shop and Button Tweens.md	22896
+16 Fast Game Kit/Starter Code/Starter Code - 09 Settings and SoundGroups.md	9028
+16 Fast Game Kit/Starter Code/Starter Code - 10 Reskin Checklist.md	5135
+16 Fast Game Kit/Starter Code/Starter Code - Hub.md	5145
 20 FBX Asset Library/100STYLE Mocap (CC-BY 4.0)/100STYLE Mocap - Catalog.md	24433
 20 FBX Asset Library/100STYLE Mocap (CC-BY 4.0)/Aeroplane/Aeroplane_BR.fbx	1772252
 20 FBX Asset Library/100STYLE Mocap (CC-BY 4.0)/Aeroplane/Aeroplane_BW.fbx	2673404

@@ -40,8 +40,13 @@ This is a Map of Content (MOC) for the **Top G Vault** knowledge graph. Use it t
 <!-- TG_CK_START -->
 ## Community Knowledge
 
-3 sourced notes added 2026-10-25.
+8 sourced notes added 2026-10-25.
 
+- [[Flow - Backing Up an Obsidian Vault - File Recovery, Sync and the Git Plugin]]
+- [[Flow - Daily Devlog and Weekly Review in Obsidian]]
+- [[Flow - Dataview Recipes for a Game Design Dashboard - GROUP BY, FLATTEN, Tasks and Orphans]]
+- [[Flow - Sustainable Dev Pace - Spotting and Avoiding Burnout]]
+- [[Flow - Weekly Planning and Timeboxing for Solo Roblox Devs]]
 - [[Obsidian Bases for Game Design Trackers]]
 - [[Obsidian Canvas for Level Flow and System Maps]]
 - [[Templater for Game Design Notes - Prompts, Folder Templates and Safety]]
