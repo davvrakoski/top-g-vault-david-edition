@@ -4,6 +4,21 @@
 
 The Roblox game-dev brain in one Obsidian vault: a colour-coded knowledge graph with a cinematic intro, built to take you from idea to shipped game fast.
 
+## 📦 The full vault is 54.7 GB: here's the proof
+
+![Live size check of the full Top G Vault](PROOF/vault-size-windows.jpg)
+
+| Full Top G Vault | |
+|---|--:|
+| **Total size** | **54.72 GB** |
+| **Files** | 30,505 |
+| **FBX models + animations** | 10,040 |
+| **Notes** | 3,967 |
+
+**This repo is the free showcase (~0.2 GB).** GitHub refuses files over 100 MB and isn't made for 55 GB, so the 3D models, textures and 4K pack live only in the full vault. Every file of the full vault is listed with its exact size in [PROOF/full-vault-file-list.txt](PROOF/full-vault-file-list.txt), with a breakdown in [PROOF/FULL-VAULT-MANIFEST.md](PROOF/FULL-VAULT-MANIFEST.md).
+
+> 🔒 **Can it be edited?** Only the owner (TDODYT) can change this repo. You can download and use the vault, but your copy doesn't change this one. The main branch is protected, and the license does not allow reselling or republishing.
+
 ## What's in this repo (free showcase)
 
 | | |
